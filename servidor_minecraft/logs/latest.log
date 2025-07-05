@@ -101,3 +101,9 @@
 [05Jul2025 05:55:46.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
 [05Jul2025 05:56:31.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Disconnected
 [05Jul2025 05:56:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
+[05Jul2025 06:05:20.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.192.242.214:42353] logged in with entity id 429 at (11.791762185736244, 112.0, 4.481096097219289)
+[05Jul2025 06:05:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
+[05Jul2025 06:05:20.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a96e17b[id=<null>,name=kuriron,properties={},legacy=false] (/127.123.158.181:56237) lost connection: Disconnected
+[05Jul2025 06:05:49.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75bc716a[id=<null>,name=kuriron,properties={},legacy=false] (/127.123.158.181:55007) lost connection: Disconnected
+[05Jul2025 06:06:54.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.123.158.181:35659] logged in with entity id 735 at (-2.5, 104.0, -8.5)
+[05Jul2025 06:06:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game

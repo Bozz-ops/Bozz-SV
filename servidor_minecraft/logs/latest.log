@@ -112,3 +112,23 @@
 [05Jul2025 06:11:09.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Getting an Upgrade]
 [05Jul2025 06:12:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Monster Hunter]
 [05Jul2025 06:16:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Acquire Hardware]
+[05Jul2025 06:23:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Isn't It Iron Pick]
+[05Jul2025 06:24:12.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[05Jul2025 06:24:12.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[05Jul2025 06:25:55.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.123.158.181:52315] logged in with entity id 5066 at (60.37658541315822, 93.0, -25.87620167452232)
+[05Jul2025 06:25:55.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[05Jul2025 06:26:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> a
+[05Jul2025 06:27:01.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:38625] logged in with entity id 5430 at (2.5, 106.0, 7.5)
+[05Jul2025 06:27:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[05Jul2025 06:27:57.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda froze to death
+[05Jul2025 06:28:36.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Not Today, Thank You]
+[05Jul2025 06:28:46.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[05Jul2025 06:28:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[05Jul2025 06:29:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda froze to death
+[05Jul2025 06:32:24.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.123.158.181:52789] logged in with entity id 7880 at (49.0015893069231, 93.0, -16.480750217990643)
+[05Jul2025 06:32:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[05Jul2025 06:35:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Getting an Upgrade]
+[05Jul2025 06:36:35.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53463] logged in with entity id 8709 at (-5.5, 110.0, -8.5)
+[05Jul2025 06:36:35.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[05Jul2025 06:38:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Getting an Upgrade]
+[05Jul2025 06:38:26.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Stone Age]

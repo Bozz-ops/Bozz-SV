@@ -165,3 +165,5 @@
 [05Jul2025 07:29:13.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
 [05Jul2025 07:29:13.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
 [05Jul2025 07:38:32.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! 1.1095860735193543,-2.5445322604149823,9.736516248113816
+[05Jul2025 07:46:49.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[05Jul2025 07:46:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game

@@ -107,3 +107,8 @@
 [05Jul2025 06:05:49.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75bc716a[id=<null>,name=kuriron,properties={},legacy=false] (/127.123.158.181:55007) lost connection: Disconnected
 [05Jul2025 06:06:54.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.123.158.181:35659] logged in with entity id 735 at (-2.5, 104.0, -8.5)
 [05Jul2025 06:06:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[05Jul2025 06:10:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Stone Age]
+[05Jul2025 06:10:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Stone Age]
+[05Jul2025 06:11:09.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Getting an Upgrade]
+[05Jul2025 06:12:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Monster Hunter]
+[05Jul2025 06:16:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Acquire Hardware]

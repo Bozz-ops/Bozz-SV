@@ -524,3 +524,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 20:38:58.946] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
 [06Jul2025 20:39:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Pike Off!]
 [06Jul2025 20:39:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has reached the goal [Feeling Watched]
+[06Jul2025 20:41:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Monster Hunter]
+[06Jul2025 20:41:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
+[06Jul2025 20:41:55.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Suit Up]
+[06Jul2025 20:41:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Tip of the Spear]
+[06Jul2025 20:41:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Pike Off!]
+[06Jul2025 20:43:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by CaptainSKIPNOTZ
+[06Jul2025 20:43:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Sweet Dreams]
+[06Jul2025 20:43:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
+[06Jul2025 20:43:52.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Stone Age]
+[06Jul2025 20:43:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Sweet Dreams]
+[06Jul2025 20:43:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Sweet Dreams]
+[06Jul2025 20:44:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Sweet Dreams]
+[06Jul2025 20:44:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Getting an Upgrade]
+[06Jul2025 20:44:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Sweet Dreams]
+[06Jul2025 20:44:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> a mimir todos
+[06Jul2025 20:45:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que lo duerme
+[06Jul2025 20:45:14.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26686, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[06Jul2025 20:45:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 20:45:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Not Today, Thank You]
+[06Jul2025 20:45:41.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
+[06Jul2025 20:45:43.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was shot by Skeleton
+[06Jul2025 20:45:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Sweet Dreams]
+[06Jul2025 20:46:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan hit the ground too hard
+[06Jul2025 20:47:18.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[06Jul2025 20:47:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Isn't It Iron Pick]
+[06Jul2025 20:51:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 20:51:49.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has reached the goal [Feeling Watched]
+[06Jul2025 20:54:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Acquire Hardware]
+[06Jul2025 20:54:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
+[06Jul2025 20:54:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[06Jul2025 20:56:26.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Take Aim]
+[06Jul2025 20:59:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 20:59:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [A Cut Above the Rest]
+[06Jul2025 21:00:04.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Not Today, Thank You]
+[06Jul2025 21:00:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> zzzz
+[06Jul2025 21:00:21.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> zzzz
+[06Jul2025 21:00:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que no se acuesta
+[06Jul2025 21:01:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> el que lee pvto
+[06Jul2025 21:05:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by balda
+[06Jul2025 21:06:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [...And My Axe!]
+[06Jul2025 21:06:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [A Cut Above the Rest]
+[06Jul2025 21:06:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Reaping What You Sow]
+[06Jul2025 21:07:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog

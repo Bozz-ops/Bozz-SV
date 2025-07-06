@@ -302,6 +302,7 @@
       "minecraft:skeleton": "2025-07-05 06:12:25 +0000",
       "minecraft:spider": "2025-07-05 06:12:04 +0000",
       "minecraft:creeper": "2025-07-05 06:22:37 +0000",
+      "minecraft:phantom": "2025-07-06 20:44:51 +0000",
       "minecraft:zombie": "2025-07-05 06:12:37 +0000",
       "minecraft:drowned": "2025-07-05 06:28:01 +0000"
     },
@@ -2129,6 +2130,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-06 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-06 20:45:53 +0000"
     },
     "done": true
   },

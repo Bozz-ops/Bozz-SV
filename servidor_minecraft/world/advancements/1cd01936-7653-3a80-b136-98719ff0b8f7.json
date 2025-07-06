@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2025-07-05 06:27:02 +0000",
       "minecraft:cherry_grove": "2025-07-05 06:35:01 +0000",
       "minecraft:savanna_plateau": "2025-07-05 07:13:51 +0000",
+      "minecraft:stony_peaks": "2025-07-06 21:59:27 +0000",
       "minecraft:river": "2025-07-05 07:07:41 +0000",
       "minecraft:stony_shore": "2025-07-06 20:09:09 +0000",
       "minecraft:grove": "2025-07-05 06:31:21 +0000",
@@ -354,6 +355,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-06 21:03:38 +0000",
       "cooked_mutton": "2025-07-05 06:48:08 +0000",
+      "cooked_beef": "2025-07-06 21:56:17 +0000",
       "porkchop": "2025-07-06 21:02:16 +0000",
       "apple": "2025-07-06 20:55:10 +0000",
       "cooked_cod": "2025-07-05 06:37:45 +0000",
@@ -618,6 +620,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-06 20:01:41 +0000",
       "minecraft:spider": "2025-07-05 07:05:45 +0000",
+      "minecraft:enderman": "2025-07-06 21:56:20 +0000",
       "minecraft:zombie": "2025-07-05 06:55:10 +0000"
     },
     "done": false
@@ -1360,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-06 22:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-06 21:22:04 +0000"
@@ -1756,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-06 22:32:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-07-06 20:00:21 +0000"
@@ -2092,6 +2107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-06 22:06:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-07-06 20:00:21 +0000"
@@ -2422,6 +2443,12 @@
     },
     "done": true
   },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2025-07-06 21:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-06 20:25:47 +0000"
@@ -2437,6 +2464,12 @@
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-07-06 21:56:28 +0000"
     },
     "done": true
   },

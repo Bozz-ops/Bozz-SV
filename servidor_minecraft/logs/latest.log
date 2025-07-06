@@ -587,3 +587,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
 [06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
 [06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[06Jul2025 21:33:13.779] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[06Jul2025 21:33:13.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[06Jul2025 21:33:13.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[06Jul2025 21:33:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[06Jul2025 21:34:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Drowned
+[06Jul2025 21:34:28.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
+[06Jul2025 21:34:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Drowned
+[06Jul2025 21:35:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Drowned
+[06Jul2025 21:35:06.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie
+[06Jul2025 21:35:11.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61415, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[06Jul2025 21:35:13.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the time to 1000]
+[06Jul2025 21:37:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 fell from a high place
+[06Jul2025 21:38:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Swashbuckler]
+[06Jul2025 21:39:22.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[06Jul2025 21:39:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[06Jul2025 21:39:27.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43207] logged in with entity id 65483 at (-469.8316317311914, 75.0, 3.7281080046636097)
+[06Jul2025 21:39:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[06Jul2025 21:39:27.624] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[06Jul2025 21:41:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Burying the Hatchet]
+[06Jul2025 21:41:06.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
+[06Jul2025 21:41:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
+[06Jul2025 21:41:25.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=103, z=89} BlockPos{x=-179, y=103, z=90}
+[06Jul2025 21:41:46.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[06Jul2025 21:41:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[06Jul2025 21:42:28.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was blown up by Creeper
+[06Jul2025 21:42:39.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:37355] logged in with entity id 67572 at (-510.69999998807907, 63.0, 54.30000001192093)
+[06Jul2025 21:42:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[06Jul2025 21:42:39.697] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[06Jul2025 21:43:30.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:36375] logged in with entity id 68210 at (-393.2820634625529, 64.0, 506.56596662696984)
+[06Jul2025 21:43:30.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[06Jul2025 21:43:30.815] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[06Jul2025 21:43:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was doomed to fall by Maxx
+[06Jul2025 21:43:59.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.249.45.252:37727] logged in with entity id 68868 at (-123.5, 114.0, 97.5)
+[06Jul2025 21:43:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[06Jul2025 21:43:59.297] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[06Jul2025 21:44:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Reaping What You Sow]
+[06Jul2025 21:44:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by CaptainSKIPNOTZ
+[06Jul2025 21:44:57.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Swashbuckler]
+[06Jul2025 21:44:57.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Burying the Hatchet]
+[06Jul2025 21:45:45.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[06Jul2025 21:45:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[06Jul2025 21:45:52.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:39755] logged in with entity id 70394 at (-771.6906281258931, 65.0, 32.69999998807907)
+[06Jul2025 21:45:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[06Jul2025 21:45:52.110] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[06Jul2025 21:46:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[06Jul2025 21:46:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Isn't It Iron Pick]
+[06Jul2025 21:46:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Acquire Hardware]
+[06Jul2025 21:46:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[06Jul2025 21:46:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Maxx
+[06Jul2025 21:47:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[06Jul2025 21:47:49.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-411, y=112, z=14} BlockPos{x=-409, y=110, z=15}
+[06Jul2025 21:50:20.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Maxx
+[06Jul2025 21:50:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Maxx
+[06Jul2025 21:51:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Stone Age]
+[06Jul2025 21:51:10.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by TheDoyan
+[06Jul2025 21:51:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie

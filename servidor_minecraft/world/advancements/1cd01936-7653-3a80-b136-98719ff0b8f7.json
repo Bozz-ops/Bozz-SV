@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2025-07-05 06:35:01 +0000",
       "minecraft:savanna_plateau": "2025-07-05 07:13:51 +0000",
       "minecraft:river": "2025-07-05 07:07:41 +0000",
+      "minecraft:stony_shore": "2025-07-06 20:09:09 +0000",
       "minecraft:grove": "2025-07-05 06:31:21 +0000",
       "minecraft:forest": "2025-07-05 06:33:34 +0000",
       "minecraft:frozen_peaks": "2025-07-05 06:30:58 +0000",
@@ -1618,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 20:14:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 20:00:21 +0000"
@@ -1714,6 +1721,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:25:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-07-06 20:00:21 +0000"
@@ -1807,6 +1820,12 @@
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 20:14:30 +0000"
     },
     "done": true
   },
@@ -1954,6 +1973,12 @@
     },
     "done": true
   },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-07-06 20:15:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-07-06 20:00:21 +0000"
@@ -2062,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 20:14:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 20:00:21 +0000"
@@ -2110,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:25:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:00:21 +0000"
@@ -2125,6 +2162,12 @@
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:25:47 +0000"
     },
     "done": true
   },

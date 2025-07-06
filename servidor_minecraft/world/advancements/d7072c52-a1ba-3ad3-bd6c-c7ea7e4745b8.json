@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-06 20:16:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-07-06 19:49:04 +0000"
@@ -1144,6 +1150,12 @@
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 19:49:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:16:35 +0000"
     },
     "done": true
   },
@@ -1321,6 +1333,12 @@
     },
     "done": true
   },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-07-06 20:18:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-07-06 19:49:04 +0000"
@@ -1399,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 20:13:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-07-06 19:49:04 +0000"
@@ -1441,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:16:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-07-06 19:49:04 +0000"
@@ -1450,6 +1480,18 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-07-06 19:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-06 20:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 20:13:54 +0000"
     },
     "done": true
   },

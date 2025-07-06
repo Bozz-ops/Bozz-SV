@@ -184,3 +184,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 19:49:04.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43135] logged in with entity id 887 at (-467.17550264488847, 74.0, 8.145896804029547)
 [06Jul2025 19:49:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [06Jul2025 19:49:04.525] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[06Jul2025 19:51:45.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:60973] logged in with entity id 1749 at (-419.30000001192093, -37.0, 140.69999998807907)
+[06Jul2025 19:51:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
+[06Jul2025 19:51:45.897] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
+[06Jul2025 19:52:15.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Timed out
+[06Jul2025 19:52:15.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
+[06Jul2025 19:57:47.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:45061] logged in with entity id 2966 at (-419.30000001192093, -37.0, 140.69999998807907)
+[06Jul2025 19:57:47.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
+[06Jul2025 19:57:47.488] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
+[06Jul2025 19:58:10.081] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanshields:network,ic_ia:main,whispering_spirits:whispering_spirits,man:man,spartanweaponry:network,mowziesmobs:net,sophisticatedbackpacks:channel,cave_dweller:main,geckolib:main,sophisticatedcore:channel] rejected their client side version number
+[06Jul2025 19:58:10.082] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[06Jul2025 19:58:10.105] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b2c678b[id=<null>,name=balda,properties={},legacy=false] (/127.249.45.252:48765) lost connection: Connection closed - mismatched mod channel list
+[06Jul2025 19:58:17.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Timed out
+[06Jul2025 19:58:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
+[06Jul2025 20:00:21.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:37407] logged in with entity id 3619 at (-427.3029015888316, -37.0, 141.69999998807907)
+[06Jul2025 20:00:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[06Jul2025 20:00:21.455] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[06Jul2025 20:00:36.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:49429] logged in with entity id 3791 at (3.5, 103.0, 4.5)
+[06Jul2025 20:00:36.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[06Jul2025 20:00:36.731] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[06Jul2025 20:00:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has reached the goal [Feeling Watched]
+[06Jul2025 20:02:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[06Jul2025 20:04:09.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:45251] logged in with entity id 5747 at (-419.30000001192093, -37.0, 140.69999998807907)
+[06Jul2025 20:04:09.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
+[06Jul2025 20:04:09.988] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
+[06Jul2025 20:04:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Best Friends Forever]
+[06Jul2025 20:05:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Stone Age]
+[06Jul2025 20:05:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Getting an Upgrade]
+[06Jul2025 20:06:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Feeling Watched]
+[06Jul2025 20:06:37.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[06Jul2025 20:06:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[06Jul2025 20:06:55.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[06Jul2025 20:08:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santy2105X a server operator
+[06Jul2025 20:08:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Monster Hunter]
+[06Jul2025 20:09:10.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f6a7075[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:40421) lost connection: Disconnected
+[06Jul2025 20:09:43.745] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1201a703[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:37525) lost connection: Disconnected

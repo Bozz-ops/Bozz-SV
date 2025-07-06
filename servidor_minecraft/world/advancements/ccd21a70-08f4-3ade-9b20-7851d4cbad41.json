@@ -1841,6 +1841,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-07-05 19:08:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:10:29 +0000"
@@ -1874,12 +1880,6 @@
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:10:29 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:scythe": {
-    "criteria": {
-      "has_scythe": "2025-07-05 19:12:16 +0000"
     },
     "done": true
   },
@@ -1979,18 +1979,6 @@
     },
     "done": true
   },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-07-05 19:16:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_pole": "2025-07-05 19:08:28 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:10:29 +0000"
@@ -2012,6 +2000,18 @@
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-07-05 19:12:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-05 19:16:39 +0000"
     },
     "done": true
   },

@@ -357,7 +357,8 @@
       "porkchop": "2025-07-06 21:02:16 +0000",
       "apple": "2025-07-06 20:55:10 +0000",
       "cooked_cod": "2025-07-05 06:37:45 +0000",
-      "rotten_flesh": "2025-07-06 20:32:49 +0000"
+      "rotten_flesh": "2025-07-06 20:32:49 +0000",
+      "cooked_chicken": "2025-07-06 21:25:47 +0000"
     },
     "done": false
   },
@@ -1359,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 21:22:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:00:21 +0000"
@@ -1407,9 +1414,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-07-06 21:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-06 21:29:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-06 21:22:04 +0000"
     },
     "done": true
   },
@@ -1893,6 +1918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-06 21:21:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-07-06 20:00:21 +0000"
@@ -1914,6 +1945,12 @@
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-06 21:21:16 +0000"
     },
     "done": true
   },
@@ -1995,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-06 21:28:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-07-06 20:00:21 +0000"
@@ -2034,6 +2077,12 @@
   "spartanweaponry:recipes/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 21:22:04 +0000"
     },
     "done": true
   },
@@ -2175,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-06 21:29:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_arrow": {
     "criteria": {
       "has_bow": "2025-07-06 20:32:15 +0000"
@@ -2277,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-06 21:21:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2025-07-06 20:00:21 +0000"
@@ -2310,6 +2371,12 @@
   "spartanweaponry:recipes/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-06 21:29:57 +0000"
     },
     "done": true
   },

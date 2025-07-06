@@ -567,3 +567,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 21:06:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [A Cut Above the Rest]
 [06Jul2025 21:06:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Reaping What You Sow]
 [06Jul2025 21:07:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 21:12:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [A Seedy Place]
+[06Jul2025 21:13:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[06Jul2025 21:17:29.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Acquire Hardware]
+[06Jul2025 21:20:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Spider
+[06Jul2025 21:22:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 21:23:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Take Aim]
+[06Jul2025 21:23:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[06Jul2025 21:25:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[06Jul2025 21:27:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Cave Spider
+[06Jul2025 21:29:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Fishy Business]
+[06Jul2025 21:29:26.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Fishy Business]
+[06Jul2025 21:29:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Hot Stuff]
+[06Jul2025 21:30:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
+[06Jul2025 21:31:24.831] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[06Jul2025 21:31:24.832] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}

@@ -223,3 +223,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 23:15:50.712] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
 [07Jul2025 23:15:50.712] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
 [07Jul2025 23:15:50.713] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_end].
+[07Jul2025 23:25:26.602] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Jul2025 23:25:26.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:58169] logged in with entity id 83 at (284.09505415774015, 74.0, 355.299837158986)
+[07Jul2025 23:25:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 23:25:26.945] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 23:25:26.962] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [BozzNofps] joined.
+[07Jul2025 23:25:56.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[07Jul2025 23:25:56.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[07Jul2025 23:25:56.804] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [BozzNofps] disconnected.
+[07Jul2025 23:29:15.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:41727] logged in with entity id 635 at (284.09505415774015, 74.0, 355.299837158986)
+[07Jul2025 23:29:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 23:29:15.561] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 23:29:15.562] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [BozzNofps] joined.
+[07Jul2025 23:31:40.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has reached the goal [Feeling Watched]
+[07Jul2025 23:31:42.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soficordoba13[/127.196.83.74:53935] logged in with entity id 1412 at (294.30000001192093, 75.0, 353.0787648956471)
+[07Jul2025 23:31:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 joined the game
+[07Jul2025 23:31:42.712] [Server thread/INFO] [Jade/]: Syncing config to Soficordoba13 (9febe8b6-c5ce-3608-8499-8fd099c3b0fa)
+[07Jul2025 23:31:42.712] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [Soficordoba13] joined.
+[07Jul2025 23:31:52.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
+[07Jul2025 23:31:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
+[07Jul2025 23:31:52.505] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [Soficordoba13] disconnected.

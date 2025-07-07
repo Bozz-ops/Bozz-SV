@@ -20,6 +20,7 @@
       "minecraft:forest": "2025-07-05 06:38:06 +0000",
       "minecraft:ocean": "2025-07-05 06:50:36 +0000",
       "minecraft:jungle": "2025-07-06 21:16:56 +0000",
+      "minecraft:flower_forest": "2025-07-07 03:57:38 +0000",
       "minecraft:frozen_peaks": "2025-07-05 06:37:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 02:51:09 +0000",
       "minecraft:savanna": "2025-07-05 06:54:13 +0000",
@@ -273,6 +274,7 @@
       "minecraft:spider": "2025-07-05 07:05:55 +0000",
       "minecraft:creeper": "2025-07-05 06:57:29 +0000",
       "minecraft:witch": "2025-07-06 22:11:15 +0000",
+      "minecraft:husk": "2025-07-07 04:02:59 +0000",
       "minecraft:zombie": "2025-07-05 06:42:05 +0000",
       "minecraft:zombie_villager": "2025-07-06 21:32:04 +0000"
     },
@@ -371,6 +373,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-05 06:48:23 +0000",
+      "cooked_mutton": "2025-07-07 03:50:24 +0000",
       "cooked_beef": "2025-07-06 22:18:22 +0000",
       "mutton": "2025-07-07 03:08:10 +0000",
       "bread": "2025-07-06 21:48:08 +0000",
@@ -2729,6 +2732,54 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-07 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-07 04:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-07 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-07 03:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-07 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-07 04:06:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-07 03:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-07 03:53:57 +0000"
     },
     "done": true
   },

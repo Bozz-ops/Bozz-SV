@@ -524,3 +524,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 03:45:12.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
 [07Jul2025 03:45:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
 [07Jul2025 03:47:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Fisticuffs]
+[07Jul2025 03:49:24.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Surge Protector]
+[07Jul2025 03:49:30.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[07Jul2025 03:51:12.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Hammer Time!]
+[07Jul2025 03:56:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Ice Bucket Challenge]
+[07Jul2025 03:58:42.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [En Garde!]
+[07Jul2025 04:00:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [You Monster...]
+[07Jul2025 04:00:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has completed the challenge [It Spreads]
+[07Jul2025 04:01:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
+[07Jul2025 04:01:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Santy2105X to kuriron]
+[07Jul2025 04:01:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to kuriron]
+[07Jul2025 04:01:56.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Santy2105X
+[07Jul2025 04:02:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
+[07Jul2025 04:03:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by CaptainSKIPNOTZ
+[07Jul2025 04:04:28.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soficordoba13[/127.196.83.74:47789] logged in with entity id 116620 at (-127.5, 105.0, 86.5)
+[07Jul2025 04:04:28.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 joined the game
+[07Jul2025 04:04:28.882] [Server thread/INFO] [Jade/]: Syncing config to Soficordoba13 (9febe8b6-c5ce-3608-8499-8fd099c3b0fa)
+[07Jul2025 04:04:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[07Jul2025 04:05:50.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> gente, pillagers al este de la base
+[07Jul2025 04:07:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Man From The Fog
+[07Jul2025 04:08:15.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Soficordoba13 to Santy2105X]
+[07Jul2025 04:08:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> espera
+[07Jul2025 04:09:02.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Suit Up]
+[07Jul2025 04:10:34.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has reached the goal [Feeling Watched]
+[07Jul2025 04:10:56.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[07Jul2025 04:13:26.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> e
+[07Jul2025 04:14:08.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123160, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[07Jul2025 04:14:14.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
+[07Jul2025 04:15:06.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> aaaa
+[07Jul2025 04:15:30.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> contexto plis
+[07Jul2025 04:15:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Sweet Dreams]
+[07Jul2025 04:15:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ajsdjsdjsa
+[07Jul2025 04:16:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> me pegaste con la cama gato
+[07Jul2025 04:17:11.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> q hago
+[07Jul2025 04:17:28.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> jajsjdjasj}
+[07Jul2025 04:18:01.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ajajaj
+[07Jul2025 04:18:20.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Stone Age]

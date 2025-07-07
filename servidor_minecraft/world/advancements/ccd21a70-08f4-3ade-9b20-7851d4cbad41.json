@@ -3040,6 +3040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-07 03:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-07-07 03:19:28 +0000"
@@ -3184,6 +3190,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-07-07 04:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-07 01:50:24 +0000"
@@ -3253,6 +3265,12 @@
   "spartanweaponry:parrying_dagger": {
     "criteria": {
       "has_parrying_dagger": "2025-07-07 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-07 04:00:05 +0000"
     },
     "done": true
   },

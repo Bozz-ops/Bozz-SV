@@ -454,3 +454,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 02:51:09.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
 [07Jul2025 02:53:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
 [07Jul2025 02:54:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
+[07Jul2025 03:00:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Cave Dweller
+[07Jul2025 03:00:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 03:01:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to CaptainSKIPNOTZ]
+[07Jul2025 03:04:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Not the Olympic Type]

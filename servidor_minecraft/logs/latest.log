@@ -458,3 +458,69 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 03:00:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
 [07Jul2025 03:01:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to CaptainSKIPNOTZ]
 [07Jul2025 03:04:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Not the Olympic Type]
+[07Jul2025 03:12:11.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
+[07Jul2025 03:12:11.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
+[07Jul2025 03:12:15.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Hot Stuff]
+[07Jul2025 03:12:19.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:34069] logged in with entity id 80326 at (354.2527035701927, 68.0, 607.1616890153842)
+[07Jul2025 03:12:19.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[07Jul2025 03:12:19.530] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[07Jul2025 03:12:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[07Jul2025 03:14:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to CaptainSKIPNOTZ]
+[07Jul2025 03:15:32.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82856, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[07Jul2025 03:15:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[07Jul2025 03:16:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Santy2105X to Maxx]
+[07Jul2025 03:16:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Fishy Business]
+[07Jul2025 03:19:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Cover Me with Diamonds]
+[07Jul2025 03:20:18.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65377, l='ServerLevel[world]', x=729.28, y=67.00, z=507.73] died, message: 'Unemployed was slain by Zombie'
+[07Jul2025 03:21:08.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Disconnected
+[07Jul2025 03:21:08.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[07Jul2025 03:23:40.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[07Jul2025 03:26:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Isn't It Iron Pick]
+[07Jul2025 03:26:17.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Cave Dweller
+[07Jul2025 03:26:19.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.30329302776090117
+[07Jul2025 03:26:19.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.7031139976359952
+[07Jul2025 03:26:19.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5068388273311939
+[07Jul2025 03:26:19.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 1.1029349675277444
+[07Jul2025 03:26:19.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8221492502713375
+[07Jul2025 03:26:19.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 1.502755937434472
+[07Jul2025 03:26:19.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.1453456145740972
+[07Jul2025 03:26:19.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 1.9025769073546712
+[07Jul2025 03:26:19.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.4756399778410128
+[07Jul2025 03:26:19.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.30329291235264577
+[07Jul2025 03:26:19.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.3032928084279547
+[07Jul2025 03:26:19.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5825815341847829
+[07Jul2025 03:26:19.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.30329271489574694
+[07Jul2025 03:26:19.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.251075679096175
+[07Jul2025 03:26:20.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.70311328770822
+[07Jul2025 03:26:20.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6033372249071647
+[07Jul2025 03:26:20.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.3032925549556751
+[07Jul2025 03:26:20.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2599257357614704
+[07Jul2025 03:26:20.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.7031129838220807
+[07Jul2025 03:26:20.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6201529842860225
+[07Jul2025 03:26:20.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.30329242540423706
+[07Jul2025 03:26:20.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.26709356416213836
+[07Jul2025 03:26:20.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.3032923701744039
+[07Jul2025 03:26:20.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2701496998927553
+[07Jul2025 03:26:20.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santy2105X) moved wrongly! 0.3032923204675626
+[07Jul2025 03:26:20.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2729008739032679
+[07Jul2025 03:26:20.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2753769304471234
+[07Jul2025 03:26:20.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3535718152501204
+[07Jul2025 03:26:20.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3285417553147454
+[07Jul2025 03:30:12.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 03:30:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:30:53.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 03:31:00.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:32:56.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 03:32:56.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 03:36:48.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[07Jul2025 03:37:10.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:40:31.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:59121] logged in with entity id 99666 at (288.69999998807907, 63.0, 359.69999998807907)
+[07Jul2025 03:40:31.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 03:40:31.555] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 03:40:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie Villager
+[07Jul2025 03:43:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 03:44:48.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:45:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 03:45:12.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:45:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
+[07Jul2025 03:47:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Fisticuffs]

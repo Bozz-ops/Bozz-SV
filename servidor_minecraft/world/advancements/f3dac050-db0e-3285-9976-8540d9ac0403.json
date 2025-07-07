@@ -682,7 +682,8 @@
       "minecraft:skeleton": "2025-07-06 20:58:28 +0000",
       "minecraft:spider": "2025-07-06 21:04:36 +0000",
       "minecraft:creeper": "2025-07-06 20:58:44 +0000",
-      "minecraft:zombie": "2025-07-06 20:28:17 +0000"
+      "minecraft:zombie": "2025-07-06 20:28:17 +0000",
+      "minecraft:drowned": "2025-07-07 03:35:46 +0000"
     },
     "done": false
   },
@@ -1166,6 +1167,7 @@
       "cooked_mutton": "2025-07-06 21:20:02 +0000",
       "apple": "2025-07-06 20:58:52 +0000",
       "potato": "2025-07-07 02:04:48 +0000",
+      "cooked_cod": "2025-07-07 03:24:51 +0000",
       "bread": "2025-07-07 01:37:54 +0000",
       "cooked_salmon": "2025-07-07 02:01:26 +0000"
     },
@@ -1723,6 +1725,18 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-07-07 03:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-07 03:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-07 01:45:21 +0000"
@@ -1774,6 +1788,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-07 02:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 03:07:58 +0000"
     },
     "done": true
   },
@@ -1963,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-07 03:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-07 02:47:57 +0000"
@@ -2077,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 03:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:54:22 +0000"
@@ -2110,6 +2142,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-07 02:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 03:07:58 +0000"
     },
     "done": true
   },
@@ -2224,6 +2262,12 @@
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-07-07 02:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 03:26:21 +0000"
     },
     "done": true
   },
@@ -2350,6 +2394,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-07 02:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 03:26:21 +0000"
     },
     "done": true
   },

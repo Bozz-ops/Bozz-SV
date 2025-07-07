@@ -372,6 +372,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-05 06:48:23 +0000",
       "cooked_beef": "2025-07-06 22:18:22 +0000",
+      "mutton": "2025-07-07 03:08:10 +0000",
       "bread": "2025-07-06 21:48:08 +0000",
       "rotten_flesh": "2025-07-07 01:39:53 +0000",
       "cooked_chicken": "2025-07-07 02:30:54 +0000",
@@ -2722,6 +2723,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-07 03:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-07 03:22:22 +0000"
     },
     "done": true
   },

@@ -677,3 +677,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 05:54:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ruido de zombie de mierda
 [07Jul2025 05:58:34.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Disconnected
 [07Jul2025 05:58:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
+[07Jul2025 06:03:16.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:42203] logged in with entity id 167212 at (4.5, 105.0, 9.5)
+[07Jul2025 06:03:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 06:03:16.110] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 06:03:44.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps froze to death
+[07Jul2025 06:03:46.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[07Jul2025 06:03:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[07Jul2025 06:04:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made BozzNofps a server operator
+[07Jul2025 06:04:52.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:51647] logged in with entity id 167578 at (4.5, 105.0, 9.5)
+[07Jul2025 06:04:52.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 06:04:52.554] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 06:05:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[07Jul2025 06:05:37.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[07Jul2025 06:05:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[07Jul2025 06:06:10.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:55943] logged in with entity id 167973 at (200.6037032829463, 60.0, 352.42351263810866)
+[07Jul2025 06:06:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 06:06:10.316] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 06:06:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[07Jul2025 06:06:40.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[07Jul2025 06:06:40.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[07Jul2025 06:06:59.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:57677] logged in with entity id 168143 at (200.6037032829463, 59.231523797587016, 352.42351263810866)
+[07Jul2025 06:06:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 06:06:59.977] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[07Jul2025 06:07:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[07Jul2025 06:07:40.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [We Need to Go Deeper]
+[07Jul2025 06:07:40.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[07Jul2025 06:08:15.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved wrongly!
+[07Jul2025 06:08:25.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps was kicked for floating too long!
+[07Jul2025 06:08:25.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Flying is not enabled on this server
+[07Jul2025 06:08:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[07Jul2025 06:08:43.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:40215] logged in with entity id 168673 at (44.960000740101684, 65.12418707874468, 44.44964039708901)
+[07Jul2025 06:08:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[07Jul2025 06:08:43.977] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)

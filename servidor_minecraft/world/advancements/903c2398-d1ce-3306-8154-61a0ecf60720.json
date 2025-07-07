@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2025-07-05 06:06:55 +0000",
       "minecraft:deep_ocean": "2025-07-06 20:13:14 +0000",
       "minecraft:beach": "2025-07-06 20:20:34 +0000",
+      "minecraft:river": "2025-07-06 22:51:10 +0000",
       "minecraft:stony_shore": "2025-07-05 06:38:32 +0000",
       "minecraft:forest": "2025-07-05 06:15:42 +0000",
       "minecraft:ocean": "2025-07-05 06:39:53 +0000",
@@ -804,6 +805,7 @@
       "minecraft:skeleton": "2025-07-05 07:17:15 +0000",
       "minecraft:spider": "2025-07-05 07:03:39 +0000",
       "minecraft:creeper": "2025-07-05 07:06:28 +0000",
+      "minecraft:phantom": "2025-07-07 01:21:18 +0000",
       "minecraft:cave_spider": "2025-07-06 20:56:26 +0000",
       "minecraft:zombie": "2025-07-05 06:58:26 +0000"
     },
@@ -2800,6 +2802,48 @@
       "has_iron_block": "2025-07-06 22:38:57 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-07-06 22:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-06 23:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-06 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-07-06 23:22:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -1,118 +1,117 @@
-[06Jul2025 19:40:29.483] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06Jul2025 19:40:29.486] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[06Jul2025 19:40:30.065] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06Jul2025 19:40:30.077] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[06Jul2025 19:40:30.078] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Bozz-SV/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23126!/
-[06Jul2025 19:40:30.084] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Bozz-SV/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[06Jul2025 19:40:30.086] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[06Jul2025 19:40:30.141] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bozz-SV/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[06Jul2025 19:40:30.151] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[06Jul2025 19:40:30.395] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jul2025 19:40:30.396] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jul2025 19:40:30.398] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jul2025 19:40:30.399] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jul2025 19:40:30.548] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[06Jul2025 19:40:31.067] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[06Jul2025 19:40:31.079] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[06Jul2025 19:40:31.791] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[06Jul2025 19:40:32.591] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Jul2025 19:40:32.663] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[06Jul2025 19:40:32.665] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Jul2025 19:40:32.758] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Jul2025 19:40:33.442] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[06Jul2025 19:40:33.443] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[06Jul2025 19:40:33.443] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[06Jul2025 19:40:33.451] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[06Jul2025 19:40:33.452] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[06Jul2025 19:40:33.452] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[06Jul2025 19:40:33.454] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[06Jul2025 19:40:33.454] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[06Jul2025 19:40:34.169] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[06Jul2025 19:40:39.909] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[06Jul2025 19:40:40.069] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[06Jul2025 19:40:40.107] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[06Jul2025 19:40:40.107] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[06Jul2025 19:40:40.108] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[06Jul2025 19:40:40.230] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06Jul2025 19:40:40.230] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06Jul2025 19:40:40.924] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Jul2025 19:40:40.925] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Jul2025 19:40:40.928] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Jul2025 19:40:40.973] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[06Jul2025 19:40:40.981] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[06Jul2025 19:40:41.005] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[06Jul2025 19:40:41.106] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[06Jul2025 19:40:41.106] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[06Jul2025 19:40:41.108] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[06Jul2025 19:40:41.109] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[06Jul2025 19:40:41.209] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[06Jul2025 19:40:41.296] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[06Jul2025 19:40:41.301] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[06Jul2025 19:40:41.304] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[06Jul2025 19:40:41.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[06Jul2025 19:40:42.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.31
-[06Jul2025 19:40:42.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[06Jul2025 19:40:42.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[06Jul2025 19:40:42.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Jul2025 19:40:42.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[06Jul2025 19:40:43.082] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Jul2025 19:40:43.880] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
-[06Jul2025 19:40:43.881] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
-[06Jul2025 19:40:45.152] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[06Jul2025 19:40:45.817] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[06Jul2025 19:40:45.999] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[06Jul2025 19:40:46.014] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[06Jul2025 19:40:46.072] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[06Jul2025 19:40:46.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.083] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[06Jul2025 19:40:46.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.087] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[06Jul2025 19:40:46.087] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[06Jul2025 19:40:46.094] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[06Jul2025 19:40:46.094] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[06Jul2025 19:40:46.095] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[06Jul2025 19:40:46.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
-[06Jul2025 19:40:46.096] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[06Jul2025 19:40:46.096] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.096] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[06Jul2025 19:40:46.097] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[06Jul2025 19:40:46.108] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[06Jul2025 19:40:46.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[06Jul2025 19:40:46.110] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[06Jul2025 19:40:46.110] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[06Jul2025 19:40:46.113] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[06Jul2025 19:40:46.113] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[06Jul2025 19:40:46.114] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[06Jul2025 19:40:46.114] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[06Jul2025 19:40:46.122] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Bozz-SV/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[06Jul2025 19:40:46.131] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[06Jul2025 19:40:46.131] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[06Jul2025 19:40:46.131] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[06Jul2025 19:40:46.131] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.138] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[06Jul2025 19:40:46.138] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[06Jul2025 19:40:46.139] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[06Jul2025 19:40:46.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[06Jul2025 19:40:46.142] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[06Jul2025 19:40:46.142] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[06Jul2025 19:40:46.150] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[06Jul2025 19:40:46.151] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[06Jul2025 19:40:46.154] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[06Jul2025 19:40:46.154] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[06Jul2025 19:40:46.156] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[06Jul2025 19:40:46.156] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
-[06Jul2025 19:40:46.160] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[06Jul2025 19:40:46.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.160] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[06Jul2025 19:40:46.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
-[06Jul2025 19:40:46.162] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[06Jul2025 19:40:46.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
-[06Jul2025 19:40:46.163] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[06Jul2025 19:40:46.163] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[06Jul2025 19:40:46.163] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[06Jul2025 19:40:46.163] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[06Jul2025 19:40:46.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[06Jul2025 19:40:46.170] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[07Jul2025 01:15:34.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Jul2025 01:15:34.231] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[07Jul2025 01:15:36.654] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Jul2025 01:15:36.670] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[07Jul2025 01:15:36.671] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Bozz-SV/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23126!/
+[07Jul2025 01:15:36.679] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Bozz-SV/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[07Jul2025 01:15:36.681] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[07Jul2025 01:15:36.851] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bozz-SV/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Jul2025 01:15:36.862] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[07Jul2025 01:15:37.488] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jul2025 01:15:37.490] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jul2025 01:15:37.491] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jul2025 01:15:37.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jul2025 01:15:37.838] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[07Jul2025 01:15:38.711] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[07Jul2025 01:15:38.719] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[07Jul2025 01:15:39.798] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[07Jul2025 01:15:40.889] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Jul2025 01:15:40.972] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[07Jul2025 01:15:40.975] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Jul2025 01:15:41.139] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Jul2025 01:15:42.166] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[07Jul2025 01:15:42.171] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[07Jul2025 01:15:42.172] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[07Jul2025 01:15:42.190] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[07Jul2025 01:15:42.190] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[07Jul2025 01:15:42.190] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[07Jul2025 01:15:42.192] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[07Jul2025 01:15:42.193] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[07Jul2025 01:15:43.361] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[07Jul2025 01:15:52.099] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[07Jul2025 01:15:52.335] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[07Jul2025 01:15:52.394] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[07Jul2025 01:15:52.395] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[07Jul2025 01:15:52.397] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[07Jul2025 01:15:52.547] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Jul2025 01:15:52.549] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Jul2025 01:15:53.513] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[07Jul2025 01:15:53.516] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[07Jul2025 01:15:53.525] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[07Jul2025 01:15:53.584] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[07Jul2025 01:15:53.594] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[07Jul2025 01:15:53.657] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[07Jul2025 01:15:53.802] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07Jul2025 01:15:53.803] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[07Jul2025 01:15:53.808] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07Jul2025 01:15:53.809] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[07Jul2025 01:15:53.887] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Jul2025 01:15:53.939] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Jul2025 01:15:53.946] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Jul2025 01:15:53.955] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[07Jul2025 01:15:54.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[07Jul2025 01:15:55.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.31
+[07Jul2025 01:15:55.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[07Jul2025 01:15:55.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[07Jul2025 01:15:55.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Jul2025 01:15:55.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Jul2025 01:15:56.531] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Jul2025 01:15:57.656] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
+[07Jul2025 01:15:57.657] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bozz-SV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
+[07Jul2025 01:15:59.849] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[07Jul2025 01:16:00.771] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[07Jul2025 01:16:00.920] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[07Jul2025 01:16:00.939] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[07Jul2025 01:16:01.013] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[07Jul2025 01:16:01.014] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.032] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[07Jul2025 01:16:01.035] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.041] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[07Jul2025 01:16:01.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[07Jul2025 01:16:01.049] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[07Jul2025 01:16:01.049] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[07Jul2025 01:16:01.050] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[07Jul2025 01:16:01.050] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[07Jul2025 01:16:01.058] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[07Jul2025 01:16:01.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.060] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[07Jul2025 01:16:01.060] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[07Jul2025 01:16:01.071] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[07Jul2025 01:16:01.072] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[07Jul2025 01:16:01.073] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[07Jul2025 01:16:01.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[07Jul2025 01:16:01.075] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[07Jul2025 01:16:01.075] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[07Jul2025 01:16:01.076] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[07Jul2025 01:16:01.076] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[07Jul2025 01:16:01.085] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[07Jul2025 01:16:01.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[07Jul2025 01:16:01.086] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[07Jul2025 01:16:01.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.093] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[07Jul2025 01:16:01.094] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[07Jul2025 01:16:01.098] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[07Jul2025 01:16:01.099] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[07Jul2025 01:16:01.105] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[07Jul2025 01:16:01.106] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[07Jul2025 01:16:01.111] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[07Jul2025 01:16:01.111] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[07Jul2025 01:16:01.114] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[07Jul2025 01:16:01.115] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[07Jul2025 01:16:01.118] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[07Jul2025 01:16:01.118] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[07Jul2025 01:16:01.120] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[07Jul2025 01:16:01.121] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.121] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[07Jul2025 01:16:01.121] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[07Jul2025 01:16:01.123] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[07Jul2025 01:16:01.123] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[07Jul2025 01:16:01.125] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[07Jul2025 01:16:01.125] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[07Jul2025 01:16:01.125] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[07Jul2025 01:16:01.125] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[07Jul2025 01:16:01.131] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[07Jul2025 01:16:01.132] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -128,623 +127,109 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[06Jul2025 19:40:46.192] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[06Jul2025 19:40:46.211] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[06Jul2025 19:40:46.258] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[06Jul2025 19:40:46.269] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[06Jul2025 19:40:46.312] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2102 advancements
-[06Jul2025 19:40:46.805] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.832059ms
-[06Jul2025 19:40:46.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06Jul2025 19:40:46.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Jul2025 19:40:46.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Jul2025 19:40:46.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Jul2025 19:40:46.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Jul2025 19:40:47.000] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Jul2025 19:40:47.101] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Jul2025 19:40:47.103] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Jul2025 19:40:47.104] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Jul2025 19:40:47.104] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Jul2025 19:40:47.134] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[06Jul2025 19:40:47.136] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[06Jul2025 19:40:47.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Jul2025 19:40:50.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Jul2025 19:40:55.368] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.369] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.379] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 19:40:55.691] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[06Jul2025 19:40:56.443] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[06Jul2025 19:40:57.290] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[06Jul2025 19:40:57.291] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[06Jul2025 19:40:57.592] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7401 ms
-[06Jul2025 19:40:57.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.466s)! For help, type "help"
-[06Jul2025 19:40:57.620] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Jul2025 19:43:28.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:60241] logged in with entity id 71 at (65.69999998807907, 106.0, 120.46534132807766)
-[06Jul2025 19:43:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
-[06Jul2025 19:43:29.231] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
-[06Jul2025 19:46:23.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:46891] logged in with entity id 438 at (4.5, 105.0, 9.5)
-[06Jul2025 19:46:23.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[06Jul2025 19:46:23.384] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[06Jul2025 19:46:53.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Disconnected
-[06Jul2025 19:46:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[06Jul2025 19:46:53.485] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[06Jul2025 19:47:53.569] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanshields:network,ic_ia:main,whispering_spirits:whispering_spirits,mowziesmobs:net,sophisticatedbackpacks:channel,sophisticatedcore:channel,man:man,spartanweaponry:network,cave_dweller:main,geckolib:main] rejected vanilla connections
-[06Jul2025 19:47:53.569] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.249.45.252:32997] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[06Jul2025 19:48:03.702] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanshields:network,ic_ia:main,whispering_spirits:whispering_spirits,mowziesmobs:net,sophisticatedbackpacks:channel,sophisticatedcore:channel,man:man,spartanweaponry:network,cave_dweller:main,geckolib:main] rejected vanilla connections
-[06Jul2025 19:48:03.702] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.249.45.252:48561] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[06Jul2025 19:48:12.110] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanshields:network,ic_ia:main,whispering_spirits:whispering_spirits,mowziesmobs:net,sophisticatedbackpacks:channel,sophisticatedcore:channel,man:man,spartanweaponry:network,cave_dweller:main,geckolib:main] rejected vanilla connections
-[06Jul2025 19:48:12.111] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.249.45.252:53933] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[06Jul2025 19:49:04.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43135] logged in with entity id 887 at (-467.17550264488847, 74.0, 8.145896804029547)
-[06Jul2025 19:49:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 19:49:04.525] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 19:51:45.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:60973] logged in with entity id 1749 at (-419.30000001192093, -37.0, 140.69999998807907)
-[06Jul2025 19:51:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
-[06Jul2025 19:51:45.897] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
-[06Jul2025 19:52:15.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Timed out
-[06Jul2025 19:52:15.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
-[06Jul2025 19:57:47.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:45061] logged in with entity id 2966 at (-419.30000001192093, -37.0, 140.69999998807907)
-[06Jul2025 19:57:47.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
-[06Jul2025 19:57:47.488] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
-[06Jul2025 19:58:10.081] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanshields:network,ic_ia:main,whispering_spirits:whispering_spirits,man:man,spartanweaponry:network,mowziesmobs:net,sophisticatedbackpacks:channel,cave_dweller:main,geckolib:main,sophisticatedcore:channel] rejected their client side version number
-[06Jul2025 19:58:10.082] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[06Jul2025 19:58:10.105] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b2c678b[id=<null>,name=balda,properties={},legacy=false] (/127.249.45.252:48765) lost connection: Connection closed - mismatched mod channel list
-[06Jul2025 19:58:17.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santy2105X lost connection: Timed out
-[06Jul2025 19:58:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X left the game
-[06Jul2025 20:00:21.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:37407] logged in with entity id 3619 at (-427.3029015888316, -37.0, 141.69999998807907)
-[06Jul2025 20:00:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[06Jul2025 20:00:21.455] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[06Jul2025 20:00:36.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:49429] logged in with entity id 3791 at (3.5, 103.0, 4.5)
-[06Jul2025 20:00:36.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
-[06Jul2025 20:00:36.731] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
-[06Jul2025 20:00:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has reached the goal [Feeling Watched]
-[06Jul2025 20:02:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
-[06Jul2025 20:04:09.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:45251] logged in with entity id 5747 at (-419.30000001192093, -37.0, 140.69999998807907)
-[06Jul2025 20:04:09.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
-[06Jul2025 20:04:09.988] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
-[06Jul2025 20:04:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Best Friends Forever]
-[06Jul2025 20:05:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Stone Age]
-[06Jul2025 20:05:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Getting an Upgrade]
-[06Jul2025 20:06:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Feeling Watched]
-[06Jul2025 20:06:37.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
-[06Jul2025 20:06:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
-[06Jul2025 20:06:55.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
-[06Jul2025 20:08:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santy2105X a server operator
-[06Jul2025 20:08:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Monster Hunter]
-[06Jul2025 20:09:10.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f6a7075[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:40421) lost connection: Disconnected
-[06Jul2025 20:09:43.745] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1201a703[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:37525) lost connection: Disconnected
-[06Jul2025 20:11:18.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:38595] logged in with entity id 8835 at (312.0817602072901, 52.28717688127648, 3.838575272526295)
-[06Jul2025 20:11:18.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
-[06Jul2025 20:11:18.115] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
-[06Jul2025 20:11:26.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron drowned
-[06Jul2025 20:11:47.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:47.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=96, z=-12}
-[06Jul2025 20:11:47.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:48.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:48.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=96, z=-11}
-[06Jul2025 20:11:48.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:48.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:48.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=96, z=-11}
-[06Jul2025 20:11:48.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:48.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:49.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=96, z=-11}
-[06Jul2025 20:11:49.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:49.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:49.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=96, z=-11}
-[06Jul2025 20:11:49.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:50.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:50.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:50.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:50.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:50.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:50.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:50.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:50.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:51.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:11:51.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=95, z=-11}
-[06Jul2025 20:11:51.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=94, z=-11}
-[06Jul2025 20:12:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
-[06Jul2025 20:15:13.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the time to 1000]
-[06Jul2025 20:15:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has reached the goal [Feeling Watched]
-[06Jul2025 20:16:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Take Aim]
-[06Jul2025 20:16:34.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
-[06Jul2025 20:16:56.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=8}
-[06Jul2025 20:16:57.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=107, z=7}
-[06Jul2025 20:16:57.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=107, z=6}
-[06Jul2025 20:16:57.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=108, z=6}
-[06Jul2025 20:16:57.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=107, z=6}
-[06Jul2025 20:16:57.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=107, z=7}
-[06Jul2025 20:16:58.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=106, z=7}
-[06Jul2025 20:16:58.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=105, z=7}
-[06Jul2025 20:16:58.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=105, z=6}
-[06Jul2025 20:17:02.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=105, z=6}
-[06Jul2025 20:17:05.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=102, z=4}
-[06Jul2025 20:17:05.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=102, z=3}
-[06Jul2025 20:17:05.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=102, z=2}
-[06Jul2025 20:17:06.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=102, z=1}
-[06Jul2025 20:17:06.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=100, z=-1}
-[06Jul2025 20:17:06.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=101, z=-1}
-[06Jul2025 20:17:06.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=100, z=-2}
-[06Jul2025 20:17:09.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=98, z=-4}
-[06Jul2025 20:17:09.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=97, z=-4}
-[06Jul2025 20:17:09.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=96, z=-4}
-[06Jul2025 20:17:10.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=96, z=-5}
-[06Jul2025 20:17:10.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:20.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Santy2105X to balda]
-[06Jul2025 20:17:30.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:31.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:31.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:41.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:41.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:41.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:42.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:42.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:42.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:42.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:42.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:43.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:43.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:43.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:43.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:43.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:44.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:45.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:45.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:46.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:46.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:46.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=96, z=-5}
-[06Jul2025 20:17:46.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:46.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:47.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:17:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Santy2105X
-[06Jul2025 20:17:47.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=95, z=-5}
-[06Jul2025 20:18:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has reached the goal [Feeling Watched]
-[06Jul2025 20:18:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=98, z=-3}
-[06Jul2025 20:18:15.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=97, z=-3}
-[06Jul2025 20:18:26.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=97, z=-5}
-[06Jul2025 20:18:26.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=96, z=-5}
-[06Jul2025 20:18:27.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=96, z=-4}
-[06Jul2025 20:18:27.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=97, z=-5}
-[06Jul2025 20:18:29.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=97, z=-6}
-[06Jul2025 20:18:29.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=97, z=-5}
-[06Jul2025 20:18:29.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=96, z=-6}
-[06Jul2025 20:18:29.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=95, z=-6}
-[06Jul2025 20:18:30.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=95, z=-5}
-[06Jul2025 20:18:33.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=93, z=-5}
-[06Jul2025 20:18:33.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=93, z=-6}
-[06Jul2025 20:18:33.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=93, z=-6}
-[06Jul2025 20:18:34.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=93, z=-6}
-[06Jul2025 20:18:36.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=94, z=-6}
-[06Jul2025 20:18:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Acquire Hardware]
-[06Jul2025 20:19:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda hit the ground too hard
-[06Jul2025 20:20:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
-[06Jul2025 20:20:47.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=64, z=253} BlockPos{x=226, y=62, z=253}
-[06Jul2025 20:21:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Suit Up]
-[06Jul2025 20:21:53.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
-[06Jul2025 20:22:33.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:41581] logged in with entity id 15481 at (0.5, 99.0, 0.5)
-[06Jul2025 20:22:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
-[06Jul2025 20:22:33.686] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
-[06Jul2025 20:22:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
-[06Jul2025 20:22:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
-[06Jul2025 20:22:51.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:51.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:52.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:53.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:53.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:53.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:53.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:54.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:54.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:54.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:55.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=0}
-[06Jul2025 20:22:55.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:55.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:55.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:55.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:55.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:56.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:56.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:56.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:56.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:57.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:58.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:58.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:58.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=0}
-[06Jul2025 20:22:58.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:58.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=0}
-[06Jul2025 20:22:58.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=0}
-[06Jul2025 20:23:00.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=1}
-[06Jul2025 20:23:00.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=1}
-[06Jul2025 20:23:00.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=1}
-[06Jul2025 20:23:00.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=1}
-[06Jul2025 20:23:00.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=100, z=1}
-[06Jul2025 20:23:00.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=101, z=1}
-[06Jul2025 20:23:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to Santy2105X]
-[06Jul2025 20:23:44.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was blown up by Creeper
-[06Jul2025 20:23:59.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to Santy2105X]
-[06Jul2025 20:24:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Stone Age]
-[06Jul2025 20:24:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the world spawn point to 47, 86, 20 [0.0]]
-[06Jul2025 20:24:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the time to 1000]
-[06Jul2025 20:24:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has reached the goal [Feeling Watched]
-[06Jul2025 20:25:17.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=49, y=85, z=19}
-[06Jul2025 20:25:17.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=51, y=84, z=18}
-[06Jul2025 20:25:17.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=50, y=85, z=19}
-[06Jul2025 20:25:17.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=51, y=86, z=20}
-[06Jul2025 20:25:17.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=52, y=86, z=20}
-[06Jul2025 20:25:17.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=54, y=85, z=21}
-[06Jul2025 20:25:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
-[06Jul2025 20:25:17.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=54, y=85, z=19}
-[06Jul2025 20:25:17.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=85, z=20} BlockPos{x=54, y=86, z=19}
-[06Jul2025 20:26:01.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:01.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=84, z=17}
-[06Jul2025 20:26:01.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=84, z=18}
-[06Jul2025 20:26:02.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:12.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:12.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=84, z=17}
-[06Jul2025 20:26:16.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=86, z=13}
-[06Jul2025 20:26:18.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=86, z=13}
-[06Jul2025 20:26:27.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:27.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=53, y=84, z=18}
-[06Jul2025 20:26:27.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=86, z=13}
-[06Jul2025 20:26:27.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=53, y=84, z=19}
-[06Jul2025 20:26:28.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=84, z=19}
-[06Jul2025 20:26:28.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:28.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=84, z=17}
-[06Jul2025 20:26:28.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=84, z=17}
-[06Jul2025 20:26:28.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:28.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=53, y=84, z=18}
-[06Jul2025 20:26:34.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:36.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=85, z=18}
-[06Jul2025 20:26:36.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=41, y=95, z=21}
-[06Jul2025 20:26:36.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=41, y=95, z=21}
-[06Jul2025 20:26:39.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=87, z=20}
-[06Jul2025 20:26:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Santy2105X
-[06Jul2025 20:26:47.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=84, z=18}
-[06Jul2025 20:26:50.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=40, y=94, z=20}
-[06Jul2025 20:26:50.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=40, y=93, z=21}
-[06Jul2025 20:28:03.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=59, y=87, z=20}
-[06Jul2025 20:28:03.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=59, y=88, z=20}
-[06Jul2025 20:28:03.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=59, y=87, z=20}
-[06Jul2025 20:28:09.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=57, y=86, z=21}
-[06Jul2025 20:28:09.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=56, y=87, z=22}
-[06Jul2025 20:28:09.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=41, y=95, z=21}
-[06Jul2025 20:28:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Monster Hunter]
-[06Jul2025 20:28:31.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=94, z=21} BlockPos{x=44, y=86, z=7}
-[06Jul2025 20:28:40.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=45, y=85, z=14}
-[06Jul2025 20:28:47.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Getting an Upgrade]
-[06Jul2025 20:28:54.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> no puedo romper bloques
-[06Jul2025 20:28:56.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=44, y=85, z=14}
-[06Jul2025 20:28:56.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=15}
-[06Jul2025 20:28:56.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=14}
-[06Jul2025 20:28:56.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=44, y=85, z=14}
-[06Jul2025 20:28:56.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=14}
-[06Jul2025 20:29:01.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> me desconecto un rato
-[06Jul2025 20:29:01.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=16}
-[06Jul2025 20:29:09.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
-[06Jul2025 20:29:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
-[06Jul2025 20:29:14.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:43751] logged in with entity id 18474 at (40.302800751830645, 94.0, 21.69999998807907)
-[06Jul2025 20:29:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
-[06Jul2025 20:29:14.946] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
-[06Jul2025 20:29:30.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=41, y=88, z=15}
-[06Jul2025 20:29:30.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=42, y=87, z=16}
-[06Jul2025 20:29:35.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=85, z=14}
-[06Jul2025 20:29:37.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=44, y=85, z=13}
-[06Jul2025 20:29:37.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=43, y=85, z=13}
-[06Jul2025 20:29:40.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=43, y=85, z=16}
-[06Jul2025 20:29:53.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=43, y=85, z=15}
-[06Jul2025 20:29:54.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=45, y=85, z=14}
-[06Jul2025 20:29:55.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=85, z=12}
-[06Jul2025 20:29:55.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=45, y=85, z=11}
-[06Jul2025 20:29:55.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=45, y=85, z=13}
-[06Jul2025 20:29:55.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=44, y=85, z=14}
-[06Jul2025 20:29:56.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=43, y=85, z=14}
-[06Jul2025 20:29:56.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=43, y=85, z=16}
-[06Jul2025 20:29:56.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=41, y=86, z=15}
-[06Jul2025 20:29:56.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=42, y=86, z=16}
-[06Jul2025 20:29:56.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=43, y=85, z=17}
-[06Jul2025 20:29:56.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=44, y=85, z=14}
-[06Jul2025 20:29:57.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=43, y=85, z=11}
-[06Jul2025 20:29:57.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=46, y=85, z=11}
-[06Jul2025 20:29:57.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=12}
-[06Jul2025 20:29:57.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=42, y=85, z=10}
-[06Jul2025 20:29:57.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
-[06Jul2025 20:29:58.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=43, y=85, z=10}
-[06Jul2025 20:29:58.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=86, z=47} BlockPos{x=45, y=85, z=8}
-[06Jul2025 20:30:26.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=43, y=85, z=15}
-[06Jul2025 20:30:29.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=85, z=14}
-[06Jul2025 20:30:32.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=86, z=6}
-[06Jul2025 20:30:34.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=86, z=8}
-[06Jul2025 20:30:41.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> t
-[06Jul2025 20:30:59.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:00.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:00.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:00.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:00.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:00.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:01.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=87, z=21}
-[06Jul2025 20:31:06.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=85, z=14}
-[06Jul2025 20:31:12.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Disconnected
-[06Jul2025 20:31:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
-[06Jul2025 20:31:22.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:40247] logged in with entity id 19225 at (48.85386005606986, 86.0, 19.74042966697627)
-[06Jul2025 20:31:22.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
-[06Jul2025 20:31:22.592] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
-[06Jul2025 20:31:33.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=86, z=19}
-[06Jul2025 20:31:34.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=86, z=19}
-[06Jul2025 20:31:57.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=87, z=13}
-[06Jul2025 20:32:13.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=48, y=82, z=11}
-[06Jul2025 20:32:14.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=49, y=83, z=11}
-[06Jul2025 20:32:14.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=80, z=25} BlockPos{x=49, y=83, z=11}
-[06Jul2025 20:33:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [A Cut Above the Rest]
-[06Jul2025 20:33:49.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the world spawn point to -133, 104, 92 [0.0]]
-[06Jul2025 20:34:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the time to 1000]
-[06Jul2025 20:34:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Maxx to Santy2105X]
-[06Jul2025 20:34:24.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=87, z=78} BlockPos{x=-129, y=106, z=96}
-[06Jul2025 20:34:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported balda to Santy2105X]
-[06Jul2025 20:34:53.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported CaptainSKIPNOTZ to Santy2105X]
-[06Jul2025 20:34:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [The Fourth Horseman]
-[06Jul2025 20:35:01.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=104, z=94} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=104, z=94} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=104, z=94} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=104, z=95} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=104, z=95} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=104, z=95} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:01.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=104, z=95} BlockPos{x=-167, y=103, z=94}
-[06Jul2025 20:35:03.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=96} BlockPos{x=-171, y=103, z=96}
-[06Jul2025 20:35:03.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=96} BlockPos{x=-171, y=103, z=96}
-[06Jul2025 20:35:03.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=96} BlockPos{x=-171, y=103, z=96}
-[06Jul2025 20:35:03.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=96} BlockPos{x=-171, y=103, z=96}
-[06Jul2025 20:35:05.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=93} BlockPos{x=-172, y=103, z=92}
-[06Jul2025 20:35:05.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=104, z=93} BlockPos{x=-172, y=103, z=92}
-[06Jul2025 20:35:07.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=105, z=91} BlockPos{x=-167, y=104, z=91}
-[06Jul2025 20:35:07.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=105, z=91} BlockPos{x=-167, y=104, z=91}
-[06Jul2025 20:35:07.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=105, z=91} BlockPos{x=-167, y=104, z=91}
-[06Jul2025 20:35:07.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=105, z=91} BlockPos{x=-167, y=104, z=91}
-[06Jul2025 20:35:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
-[06Jul2025 20:36:46.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Take Aim]
-[06Jul2025 20:38:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Tip of the Spear]
-[06Jul2025 20:38:07.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=103, z=96} BlockPos{x=-149, y=103, z=99}
-[06Jul2025 20:38:13.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=103, z=96} BlockPos{x=-146, y=103, z=99}
-[06Jul2025 20:38:13.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=103, z=96} BlockPos{x=-146, y=103, z=98}
-[06Jul2025 20:38:17.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=103, z=96} BlockPos{x=-146, y=103, z=99}
-[06Jul2025 20:38:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
-[06Jul2025 20:38:58.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:60901] logged in with entity id 22710 at (-127.5, 114.0, 98.5)
-[06Jul2025 20:38:58.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
-[06Jul2025 20:38:58.946] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
-[06Jul2025 20:39:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Pike Off!]
-[06Jul2025 20:39:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has reached the goal [Feeling Watched]
-[06Jul2025 20:41:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Monster Hunter]
-[06Jul2025 20:41:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
-[06Jul2025 20:41:55.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Suit Up]
-[06Jul2025 20:41:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Tip of the Spear]
-[06Jul2025 20:41:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Pike Off!]
-[06Jul2025 20:43:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by CaptainSKIPNOTZ
-[06Jul2025 20:43:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Sweet Dreams]
-[06Jul2025 20:43:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
-[06Jul2025 20:43:52.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Stone Age]
-[06Jul2025 20:43:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Sweet Dreams]
-[06Jul2025 20:43:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Sweet Dreams]
-[06Jul2025 20:44:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Sweet Dreams]
-[06Jul2025 20:44:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Getting an Upgrade]
-[06Jul2025 20:44:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Sweet Dreams]
-[06Jul2025 20:44:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> a mimir todos
-[06Jul2025 20:45:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que lo duerme
-[06Jul2025 20:45:14.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26686, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
-[06Jul2025 20:45:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 20:45:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Not Today, Thank You]
-[06Jul2025 20:45:41.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
-[06Jul2025 20:45:43.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was shot by Skeleton
-[06Jul2025 20:45:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Sweet Dreams]
-[06Jul2025 20:46:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan hit the ground too hard
-[06Jul2025 20:47:18.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
-[06Jul2025 20:47:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Isn't It Iron Pick]
-[06Jul2025 20:51:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 20:51:49.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has reached the goal [Feeling Watched]
-[06Jul2025 20:54:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Acquire Hardware]
-[06Jul2025 20:54:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
-[06Jul2025 20:54:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
-[06Jul2025 20:56:26.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Take Aim]
-[06Jul2025 20:59:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 20:59:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [A Cut Above the Rest]
-[06Jul2025 21:00:04.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Not Today, Thank You]
-[06Jul2025 21:00:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> zzzz
-[06Jul2025 21:00:21.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> zzzz
-[06Jul2025 21:00:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que no se acuesta
-[06Jul2025 21:01:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> el que lee pvto
-[06Jul2025 21:05:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by balda
-[06Jul2025 21:06:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [...And My Axe!]
-[06Jul2025 21:06:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [A Cut Above the Rest]
-[06Jul2025 21:06:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Reaping What You Sow]
-[06Jul2025 21:07:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 21:12:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [A Seedy Place]
-[06Jul2025 21:13:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
-[06Jul2025 21:17:29.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Acquire Hardware]
-[06Jul2025 21:20:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Spider
-[06Jul2025 21:22:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 21:23:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Take Aim]
-[06Jul2025 21:23:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
-[06Jul2025 21:25:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 21:27:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Cave Spider
-[06Jul2025 21:29:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Fishy Business]
-[06Jul2025 21:29:26.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Fishy Business]
-[06Jul2025 21:29:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Hot Stuff]
-[06Jul2025 21:30:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
-[06Jul2025 21:31:24.831] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[06Jul2025 21:31:24.832] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[06Jul2025 21:31:24.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[06Jul2025 21:31:24.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[06Jul2025 21:33:13.779] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[06Jul2025 21:33:13.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[06Jul2025 21:33:13.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[06Jul2025 21:33:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
-[06Jul2025 21:34:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Drowned
-[06Jul2025 21:34:28.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
-[06Jul2025 21:34:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Drowned
-[06Jul2025 21:35:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Drowned
-[06Jul2025 21:35:06.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie
-[06Jul2025 21:35:11.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61415, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
-[06Jul2025 21:35:13.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set the time to 1000]
-[06Jul2025 21:37:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 fell from a high place
-[06Jul2025 21:38:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Swashbuckler]
-[06Jul2025 21:39:22.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[06Jul2025 21:39:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[06Jul2025 21:39:27.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43207] logged in with entity id 65483 at (-469.8316317311914, 75.0, 3.7281080046636097)
-[06Jul2025 21:39:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 21:39:27.624] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 21:41:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Burying the Hatchet]
-[06Jul2025 21:41:06.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
-[06Jul2025 21:41:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
-[06Jul2025 21:41:25.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=103, z=89} BlockPos{x=-179, y=103, z=90}
-[06Jul2025 21:41:46.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[06Jul2025 21:41:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[06Jul2025 21:42:28.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was blown up by Creeper
-[06Jul2025 21:42:39.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:37355] logged in with entity id 67572 at (-510.69999998807907, 63.0, 54.30000001192093)
-[06Jul2025 21:42:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 21:42:39.697] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 21:43:30.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:36375] logged in with entity id 68210 at (-393.2820634625529, 64.0, 506.56596662696984)
-[06Jul2025 21:43:30.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
-[06Jul2025 21:43:30.815] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
-[06Jul2025 21:43:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was doomed to fall by Maxx
-[06Jul2025 21:43:59.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.249.45.252:37727] logged in with entity id 68868 at (-123.5, 114.0, 97.5)
-[06Jul2025 21:43:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
-[06Jul2025 21:43:59.297] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
-[06Jul2025 21:44:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Reaping What You Sow]
-[06Jul2025 21:44:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by CaptainSKIPNOTZ
-[06Jul2025 21:44:57.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Swashbuckler]
-[06Jul2025 21:44:57.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Burying the Hatchet]
-[06Jul2025 21:45:45.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[06Jul2025 21:45:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[06Jul2025 21:45:52.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:39755] logged in with entity id 70394 at (-771.6906281258931, 65.0, 32.69999998807907)
-[06Jul2025 21:45:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 21:45:52.110] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 21:46:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
-[06Jul2025 21:46:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Isn't It Iron Pick]
-[06Jul2025 21:46:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Acquire Hardware]
-[06Jul2025 21:46:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
-[06Jul2025 21:46:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Maxx
-[06Jul2025 21:47:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
-[06Jul2025 21:47:49.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-411, y=112, z=14} BlockPos{x=-409, y=110, z=15}
-[06Jul2025 21:50:20.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Maxx
-[06Jul2025 21:50:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Maxx
-[06Jul2025 21:51:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Stone Age]
-[06Jul2025 21:51:10.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by TheDoyan
-[06Jul2025 21:51:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie
-[06Jul2025 21:52:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Maxx
-[06Jul2025 21:52:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Man From The Fog
-[06Jul2025 21:52:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Burying the Hatchet]
-[06Jul2025 21:53:36.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Disconnected
-[06Jul2025 21:53:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
-[06Jul2025 21:54:16.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Zombie
-[06Jul2025 21:54:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
-[06Jul2025 21:55:37.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=102, z=73} BlockPos{x=-189, y=102, z=74}
-[06Jul2025 21:55:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [A not-so-pointy Stick!]
-[06Jul2025 21:56:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [A not-so-pointy Stick!]
-[06Jul2025 21:56:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Getting an Upgrade]
-[06Jul2025 21:57:16.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[06Jul2025 21:57:16.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[06Jul2025 22:00:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> lpm vi herobrine
-[06Jul2025 22:01:46.484] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
-[06Jul2025 22:01:46.485] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
-[06Jul2025 22:01:46.485] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
-[06Jul2025 22:01:46.485] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
-[06Jul2025 22:01:46.485] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
-[06Jul2025 22:02:05.871] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[06Jul2025 22:02:05.872] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[06Jul2025 22:02:10.608] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[06Jul2025 22:02:10.608] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[06Jul2025 22:02:10.609] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[06Jul2025 22:02:10.609] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[06Jul2025 22:02:10.609] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[06Jul2025 22:02:10.644] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[06Jul2025 22:02:10.644] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[06Jul2025 22:02:10.644] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[06Jul2025 22:02:13.757] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
-[06Jul2025 22:03:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has reached the goal [Feeling Watched]
-[06Jul2025 22:05:29.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69fd4d2[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:44037) lost connection: Disconnected
-[06Jul2025 22:05:35.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:57845] logged in with entity id 83027 at (-784.542422154689, 14.0, 45.69999998807907)
-[06Jul2025 22:05:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 22:05:35.365] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 22:05:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 22:05:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Sweet Dreams]
-[06Jul2025 22:06:21.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Pike Off!]
-[06Jul2025 22:06:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Burying the Hatchet]
-[06Jul2025 22:06:25.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
-[06Jul2025 22:06:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
-[06Jul2025 22:06:54.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84480, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
-[06Jul2025 22:07:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Not the Olympic Type]
-[06Jul2025 22:08:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 22:08:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Tip of the Spear]
-[06Jul2025 22:08:37.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [...And My Axe!]
-[06Jul2025 22:09:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Halberdier]
-[06Jul2025 22:11:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie Villager
-[06Jul2025 22:11:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Not Today, Thank You]
-[06Jul2025 22:12:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
-[06Jul2025 22:13:00.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
-[06Jul2025 22:13:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
-[06Jul2025 22:13:22.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[06Jul2025 22:13:22.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[06Jul2025 22:13:45.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:45199] logged in with entity id 87780 at (-784.6328792357666, 14.0, 45.69999998807907)
-[06Jul2025 22:13:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[06Jul2025 22:13:45.196] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[06Jul2025 22:14:19.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:58513] logged in with entity id 88152 at (245.62888968631253, -8.0, 260.69999998807907)
-[06Jul2025 22:14:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
-[06Jul2025 22:14:19.352] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
-[06Jul2025 22:14:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie
-[06Jul2025 22:15:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Monster Hunter]
-[06Jul2025 22:16:42.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:36817] logged in with entity id 89578 at (616.7656418735263, 64.0, 637.3795345881431)
-[06Jul2025 22:16:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
-[06Jul2025 22:16:42.512] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
-[06Jul2025 22:17:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was shot by Skeleton
-[06Jul2025 22:17:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Surge Protector]
-[06Jul2025 22:18:28.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
-[06Jul2025 22:22:18.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Best Friends Forever]
-[06Jul2025 22:23:22.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
-[06Jul2025 22:25:04.104] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[06Jul2025 22:25:04.104] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[06Jul2025 22:25:20.915] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[06Jul2025 22:25:20.916] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[06Jul2025 22:25:20.916] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[06Jul2025 22:25:20.925] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
-[06Jul2025 22:25:20.925] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
-[06Jul2025 22:26:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was doomed to fall by Man From The Fog
-[06Jul2025 22:27:37.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/101154, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
-[06Jul2025 22:28:28.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Timed out
-[06Jul2025 22:28:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
-[06Jul2025 22:28:39.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
-[06Jul2025 22:28:39.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
-[06Jul2025 22:28:43.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:42849] logged in with entity id 101927 at (891.5912322498732, 87.0, 347.86086092461323)
-[06Jul2025 22:28:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
-[06Jul2025 22:28:43.368] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
-[06Jul2025 22:28:47.040] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@385e6b71[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:54451) lost connection: Disconnected
-[06Jul2025 22:29:26.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2926700d[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:34123) lost connection: Disconnected
-[06Jul2025 22:29:35.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:38887] logged in with entity id 102833 at (-241.2749527145931, 95.0, 11.664950904355562)
-[06Jul2025 22:29:35.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
-[06Jul2025 22:29:35.887] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
-[06Jul2025 22:30:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie
-[06Jul2025 22:32:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Diamonds!]
-[06Jul2025 22:32:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Sneak 100]
-[06Jul2025 22:34:38.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=63, z=144} BlockPos{x=-702, y=62, z=142}
-[06Jul2025 22:38:52.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
-[06Jul2025 22:38:52.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
-[06Jul2025 22:39:17.211] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4457425[id=<null>,name=TheDoyan,properties={},legacy=false] (/127.192.242.214:40129) lost connection: Disconnected
-[06Jul2025 22:39:42.506] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c2ec87a[id=<null>,name=TheDoyan,properties={},legacy=false] (/127.192.242.214:34509) lost connection: Disconnected
-[06Jul2025 22:39:48.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:44137] logged in with entity id 111634 at (1192.3483622125905, 96.0, 204.4778016630365)
-[06Jul2025 22:39:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
-[06Jul2025 22:39:48.670] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
-[06Jul2025 22:40:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was blown up by Creeper
-[06Jul2025 22:41:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Isn't It Iron Pick]
-[06Jul2025 22:42:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X fell from a high place
+[07Jul2025 01:16:01.175] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[07Jul2025 01:16:01.200] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Jul2025 01:16:01.267] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Jul2025 01:16:01.278] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[07Jul2025 01:16:01.320] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2102 advancements
+[07Jul2025 01:16:02.011] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.462681ms
+[07Jul2025 01:16:02.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Jul2025 01:16:02.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Jul2025 01:16:02.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Jul2025 01:16:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Jul2025 01:16:02.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Jul2025 01:16:02.382] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Jul2025 01:16:02.510] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Jul2025 01:16:02.510] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Jul2025 01:16:02.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Jul2025 01:16:02.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Jul2025 01:16:02.539] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[07Jul2025 01:16:02.545] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[07Jul2025 01:16:02.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Jul2025 01:16:06.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Jul2025 01:16:11.215] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.227] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.254] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.360] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.413] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.446] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.462] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.480] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:11.965] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:12.225] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:12.727] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:13.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:13.729] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:14.225] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jul2025 01:16:14.737] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[07Jul2025 01:16:15.225] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[07Jul2025 01:16:15.626] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8901 ms
+[07Jul2025 01:16:15.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.097s)! For help, type "help"
+[07Jul2025 01:16:15.662] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Jul2025 01:16:56.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santy2105X[/127.249.45.252:57001] logged in with entity id 71 at (287.5362137789309, 63.0, 358.80792982175143)
+[07Jul2025 01:16:57.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X joined the game
+[07Jul2025 01:16:57.098] [Server thread/INFO] [Jade/]: Syncing config to Santy2105X (ccd21a70-08f4-3ade-9b20-7851d4cbad41)
+[07Jul2025 01:16:58.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:50689] logged in with entity id 72 at (285.9636981041235, 63.0, 359.6157043225348)
+[07Jul2025 01:16:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[07Jul2025 01:16:58.370] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[07Jul2025 01:17:17.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:56037] logged in with entity id 381 at (-446.2533335462822, -25.0, 11.364021553727369)
+[07Jul2025 01:17:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[07Jul2025 01:17:17.488] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[07Jul2025 01:17:55.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/673, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[07Jul2025 01:19:50.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[07Jul2025 01:19:50.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[07Jul2025 01:19:50.235] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 01:20:04.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:53903] logged in with entity id 1482 at (-174.23609225862847, 103.5625, 84.47340555576953)
+[07Jul2025 01:20:04.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[07Jul2025 01:20:04.906] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[07Jul2025 01:20:19.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:52641] logged in with entity id 1727 at (267.83309094270913, 51.0, 376.2918065981125)
+[07Jul2025 01:20:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[07Jul2025 01:20:19.705] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[07Jul2025 01:21:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported Santy2105X to Maxx]
+[07Jul2025 01:21:03.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:50655] logged in with entity id 1995 at (-774.8574773771629, 13.0, 30.954319096132124)
+[07Jul2025 01:21:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 01:21:03.467] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 01:22:10.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.249.45.252:40763] logged in with entity id 2522 at (-767.4760566663891, 16.0, 490.30000001192093)
+[07Jul2025 01:22:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[07Jul2025 01:22:10.264] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[07Jul2025 01:22:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported CaptainSKIPNOTZ to Santy2105X]
+[07Jul2025 01:24:22.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Cover Me with Diamonds]
+[07Jul2025 01:24:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> -184 103 96
+[07Jul2025 01:24:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 hit the ground too hard
+[07Jul2025 01:24:33.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 01:24:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 01:24:38.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:55171] logged in with entity id 4613 at (-470.5, 75.0, 3.5)
+[07Jul2025 01:24:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 01:24:38.117] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 01:25:37.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 01:25:37.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 01:26:26.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:50317] logged in with entity id 5728 at (-470.01802562089244, 75.0, 3.4898195418473144)
+[07Jul2025 01:26:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 01:26:26.519] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 01:26:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[07Jul2025 01:28:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[07Jul2025 01:29:21.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 01:29:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 01:30:06.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:57869] logged in with entity id 8540 at (-470.35386049362666, 75.0, 4.571132135408894)
+[07Jul2025 01:30:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 01:30:06.804] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 01:30:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Diamonds!]
+[07Jul2025 01:32:08.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 01:32:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 01:32:14.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:59171] logged in with entity id 10329 at (-758.3117680410405, 54.0, 32.50582049949862)
+[07Jul2025 01:32:14.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 01:32:14.149] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 01:33:43.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Suit Up]
+[07Jul2025 01:33:55.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:46725] logged in with entity id 11421 at (-172.16947998072902, 103.0, 86.86073296530256)
+[07Jul2025 01:33:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[07Jul2025 01:33:55.258] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[07Jul2025 01:35:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[07Jul2025 01:38:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Teleported angeelcraft to Santy2105X]
+[07Jul2025 01:38:59.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was shot by Skeleton
+[07Jul2025 01:39:37.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[07Jul2025 01:40:43.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[07Jul2025 01:41:02.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-137, y=112, z=95}
+[07Jul2025 01:41:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[07Jul2025 01:44:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Spider

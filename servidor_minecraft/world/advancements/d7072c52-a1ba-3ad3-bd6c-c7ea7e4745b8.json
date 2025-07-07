@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-05 06:36:36 +0000",
       "minecraft:sunflower_plains": "2025-07-05 06:52:24 +0000",
+      "minecraft:cherry_grove": "2025-07-07 02:41:12 +0000",
       "minecraft:birch_forest": "2025-07-07 02:11:42 +0000",
       "minecraft:savanna_plateau": "2025-07-05 06:54:17 +0000",
       "minecraft:stony_peaks": "2025-07-05 06:57:18 +0000",
@@ -2692,6 +2693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-07 02:28:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/dynamite": {
     "criteria": {
       "has_explosive_charge": "2025-07-07 02:28:45 +0000"
@@ -2704,9 +2711,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "spartanweaponry:tomahawk": {
     "criteria": {
-      "has_iron_nugget": "2025-07-07 02:28:42 +0000"
+      "has_tomahawk": "2025-07-07 02:37:30 +0000"
     },
     "done": true
   },

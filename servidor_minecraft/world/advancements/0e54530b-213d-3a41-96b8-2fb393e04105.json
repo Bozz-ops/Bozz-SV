@@ -1650,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 01:42:56 +0000"
@@ -1662,9 +1668,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-07 02:45:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
     },
     "done": true
   },
@@ -1891,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-07-07 01:55:34 +0000"
@@ -2059,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-07 02:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -2101,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-07 01:30:20 +0000"
@@ -2134,6 +2176,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 02:43:40 +0000"
     },
     "done": true
   },
@@ -2197,6 +2245,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:spear": {
     "criteria": {
       "has_spear": "2025-07-07 01:46:08 +0000"
@@ -2251,6 +2305,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-07 02:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -2272,6 +2338,12 @@
   "spartanweaponry:recipes/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 02:44:10 +0000"
     },
     "done": true
   },
@@ -2359,6 +2431,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -2368,6 +2452,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
     },
     "done": true
   },
@@ -2392,6 +2482,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
     },
     "done": true
   },
@@ -2479,6 +2575,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-07 02:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 02:44:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
@@ -2497,9 +2605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 02:44:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_rapier": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-07 02:44:54 +0000"
     },
     "done": true
   },
@@ -2518,6 +2638,12 @@
   "spartanweaponry:recipes/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 02:43:40 +0000"
     },
     "done": true
   },
@@ -2563,6 +2689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-07 02:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-07-07 01:46:29 +0000"
@@ -2572,6 +2704,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-07 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-07 02:44:49 +0000"
     },
     "done": true
   },

@@ -22,6 +22,8 @@
       "minecraft:snowy_slopes": "2025-07-06 21:55:06 +0000",
       "minecraft:deep_ocean": "2025-07-07 02:09:24 +0000",
       "minecraft:cherry_grove": "2025-07-06 21:44:00 +0000",
+      "minecraft:beach": "2025-07-07 02:17:36 +0000",
+      "minecraft:dark_forest": "2025-07-07 02:16:33 +0000",
       "minecraft:sparse_jungle": "2025-07-06 22:24:17 +0000",
       "minecraft:lukewarm_ocean": "2025-07-06 22:51:58 +0000",
       "minecraft:river": "2025-07-06 22:42:07 +0000",
@@ -1653,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-07 02:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -1677,6 +1685,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-07-07 02:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-07-07 01:41:55 +0000"
@@ -1686,6 +1700,18 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-07 01:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-07 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-07 02:25:37 +0000"
     },
     "done": true
   },
@@ -1728,6 +1754,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-07 02:25:37 +0000"
     },
     "done": true
   },
@@ -1795,6 +1827,12 @@
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-07 02:25:37 +0000"
     },
     "done": true
   },
@@ -2068,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 02:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-07 01:30:20 +0000"
@@ -2182,6 +2226,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-07-07 02:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-07-07 01:41:55 +0000"
@@ -2191,6 +2241,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-07 02:25:37 +0000"
     },
     "done": true
   },
@@ -2269,6 +2325,12 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-07 02:25:37 +0000"
     },
     "done": true
   },

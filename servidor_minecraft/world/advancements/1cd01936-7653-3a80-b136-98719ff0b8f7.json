@@ -11,7 +11,9 @@
       "minecraft:deep_ocean": "2025-07-07 02:09:30 +0000",
       "minecraft:cherry_grove": "2025-07-05 06:35:01 +0000",
       "minecraft:savanna_plateau": "2025-07-05 07:13:51 +0000",
+      "minecraft:beach": "2025-07-07 02:17:36 +0000",
       "minecraft:stony_peaks": "2025-07-06 21:59:27 +0000",
+      "minecraft:dark_forest": "2025-07-07 02:16:50 +0000",
       "minecraft:river": "2025-07-05 07:07:41 +0000",
       "minecraft:stony_shore": "2025-07-06 20:09:09 +0000",
       "minecraft:grove": "2025-07-05 06:31:21 +0000",
@@ -2532,9 +2534,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-07 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
     },
     "done": true
   },
@@ -2544,15 +2570,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-07-07 02:03:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-07 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-07 02:18:45 +0000"
     },
     "done": true
   },

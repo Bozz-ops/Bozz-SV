@@ -254,3 +254,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 01:52:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
 [07Jul2025 01:52:59.048] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
 [07Jul2025 01:54:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog
+[07Jul2025 01:56:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Not Today, Thank You]
+[07Jul2025 01:56:37.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26902, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[07Jul2025 01:59:04.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Ice Bucket Challenge]
+[07Jul2025 01:59:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Man From The Fog
+[07Jul2025 02:00:45.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 02:00:45.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 02:00:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> e
+[07Jul2025 02:00:55.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:50199] logged in with entity id 28912 at (-425.69999998807907, 52.0, 98.49855253922641)
+[07Jul2025 02:00:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 02:00:55.261] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 02:01:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> ?
+[07Jul2025 02:01:34.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[07Jul2025 02:01:34.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[07Jul2025 02:01:47.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:45567] logged in with entity id 29417 at (-426.30000001192093, 51.0, 98.69999998807907)
+[07Jul2025 02:01:47.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[07Jul2025 02:01:47.257] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[07Jul2025 02:02:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> 286 61
+[07Jul2025 02:02:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> 286 61 380

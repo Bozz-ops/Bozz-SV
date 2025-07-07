@@ -380,7 +380,8 @@
       "bread": "2025-07-06 21:48:08 +0000",
       "rotten_flesh": "2025-07-07 01:39:53 +0000",
       "cooked_chicken": "2025-07-07 02:30:54 +0000",
-      "cod": "2025-07-05 07:09:48 +0000"
+      "cod": "2025-07-05 07:09:48 +0000",
+      "carrot": "2025-07-07 04:48:16 +0000"
     },
     "done": false
   },
@@ -2784,18 +2785,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-07-07 04:35:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-07 04:35:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-07 04:34:50 +0000"
@@ -2811,6 +2800,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-07-07 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-07 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-07 04:35:43 +0000"
     },
     "done": true
   },

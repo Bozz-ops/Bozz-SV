@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
@@ -131,6 +137,18 @@
     },
     "done": true
   },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-07-07 05:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
@@ -146,6 +164,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-07 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
     },
     "done": true
   },
@@ -175,6 +199,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-07 05:03:38 +0000",
+      "minecraft:zombie": "2025-07-07 04:52:51 +0000",
       "minecraft:drowned": "2025-07-07 04:28:06 +0000"
     },
     "done": false
@@ -182,6 +208,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-07 04:26:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
     },
     "done": true
   },
@@ -206,6 +238,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-07 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-07 05:05:43 +0000"
     },
     "done": true
   },
@@ -251,6 +289,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
@@ -260,6 +304,12 @@
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
     },
     "done": true
   },
@@ -293,9 +343,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-07 04:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
     },
     "done": true
   },
@@ -335,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
@@ -362,6 +436,18 @@
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
     },
     "done": true
   },
@@ -402,6 +488,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-07 04:18:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-07-07 05:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 05:05:43 +0000"
     },
     "done": true
   },

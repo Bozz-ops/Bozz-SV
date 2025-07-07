@@ -810,6 +810,7 @@
       "minecraft:creeper": "2025-07-05 07:06:28 +0000",
       "minecraft:phantom": "2025-07-07 01:21:18 +0000",
       "minecraft:cave_spider": "2025-07-06 20:56:26 +0000",
+      "minecraft:enderman": "2025-07-07 05:04:32 +0000",
       "minecraft:zombie": "2025-07-05 06:58:26 +0000",
       "minecraft:drowned": "2025-07-07 02:20:53 +0000"
     },
@@ -2933,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 02:27:51 +0000"
@@ -2945,9 +2952,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-07 04:52:43 +0000",
+      "minecraft:soul_sand_valley": "2025-07-07 04:52:50 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-07-07 03:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
     },
     "done": true
   },
@@ -2960,6 +2986,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-07-07 02:25:53 +0000",
+      "enderman_head": "2025-07-07 05:04:38 +0000",
       "drowned_head": "2025-07-07 02:48:57 +0000",
       "zombie_head": "2025-07-07 03:35:29 +0000",
       "skeleton_skull": "2025-07-07 02:20:16 +0000"
@@ -2969,6 +2996,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-07 04:52:41 +0000"
     },
     "done": true
   },
@@ -2999,6 +3032,12 @@
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-07-07 03:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
     },
     "done": true
   },
@@ -3140,6 +3179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 02:27:51 +0000"
@@ -3164,6 +3209,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-07 04:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-07 03:48:24 +0000"
@@ -3182,9 +3239,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-07 04:52:41 +0000"
     },
     "done": true
   },
@@ -3233,6 +3308,18 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-07 03:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-07 04:50:46 +0000"
     },
     "done": true
   },

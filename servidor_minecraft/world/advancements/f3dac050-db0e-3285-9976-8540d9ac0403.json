@@ -1767,6 +1767,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 04:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-07 02:45:12 +0000"
@@ -1902,6 +1908,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-07 03:47:29 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 04:38:19 +0000"
     },
     "done": true
   },
@@ -2337,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-07 04:38:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-07-07 03:51:12 +0000"
@@ -2370,6 +2388,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-07 01:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-07 04:47:31 +0000"
     },
     "done": true
   },
@@ -2478,6 +2502,12 @@
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-07-07 02:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 04:38:19 +0000"
     },
     "done": true
   },

@@ -648,3 +648,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 05:08:25.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> pendejo
 [07Jul2025 05:08:29.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> te vi
 [07Jul2025 05:08:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ajsdsadasda
+[07Jul2025 05:11:09.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/155277, l='ServerLevel[world]', x=258.22, y=65.00, z=359.74] died, message: 'Unemployed suffocated in a wall'
+[07Jul2025 05:12:03.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/155412, l='ServerLevel[world]', x=258.22, y=65.00, z=359.74] died, message: 'Unemployed suffocated in a wall'
+[07Jul2025 05:12:22.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=65, z=339} BlockPos{x=282, y=65, z=337}
+[07Jul2025 05:12:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> quien pingo no tiene papa
+[07Jul2025 05:12:41.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Disconnected
+[07Jul2025 05:12:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[07Jul2025 05:17:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> bah

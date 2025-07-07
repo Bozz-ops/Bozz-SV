@@ -2485,6 +2485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-07 01:47:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-07-07 01:37:48 +0000"

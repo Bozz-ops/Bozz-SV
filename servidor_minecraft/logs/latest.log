@@ -233,3 +233,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 01:41:02.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-137, y=112, z=95}
 [07Jul2025 01:41:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
 [07Jul2025 01:44:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Spider
+[07Jul2025 01:46:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Pike Off!]
+[07Jul2025 01:46:08.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Tip of the Spear]
+[07Jul2025 01:46:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [...And My Axe!]
+[07Jul2025 01:48:44.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
+[07Jul2025 01:49:20.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
+[07Jul2025 01:49:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[07Jul2025 01:49:20.784] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 01:49:35.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:59939] logged in with entity id 22433 at (-171.0770552087407, 103.0, 83.72970677933819)
+[07Jul2025 01:49:35.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[07Jul2025 01:49:35.145] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[07Jul2025 01:51:50.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Timed out
+[07Jul2025 01:51:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[07Jul2025 01:51:54.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by Creeper
+[07Jul2025 01:52:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> vengo a busacar lava
+[07Jul2025 01:52:08.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> si queres volve por donde volvimos
+[07Jul2025 01:52:15.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santy2105X> la escalera
+[07Jul2025 01:52:47.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e90f100[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:39685) lost connection: Disconnected
+[07Jul2025 01:52:58.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:45173] logged in with entity id 24814 at (-177.04330546880743, 103.0, 80.52372850094895)
+[07Jul2025 01:52:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[07Jul2025 01:52:59.048] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[07Jul2025 01:54:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Man From The Fog

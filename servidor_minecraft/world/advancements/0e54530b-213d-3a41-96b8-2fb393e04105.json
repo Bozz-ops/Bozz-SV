@@ -1644,6 +1644,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -1668,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-07 01:30:18 +0000"
@@ -1689,6 +1701,12 @@
   "spartanweaponry:recipes/diamond_quarterstaff": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -1728,9 +1746,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-07 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-07 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
     },
     "done": true
   },
@@ -1758,9 +1794,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-07-07 01:46:22 +0000"
     },
     "done": true
   },
@@ -1782,6 +1836,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -1800,9 +1860,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
     },
     "done": true
   },
@@ -1812,9 +1896,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-07-07 01:38:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -1833,6 +1935,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -1884,6 +1998,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
@@ -1896,15 +2016,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-07-07 01:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -1926,6 +2070,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
@@ -1941,6 +2115,12 @@
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
     },
     "done": true
   },
@@ -1974,6 +2154,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
@@ -1992,9 +2184,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -2004,9 +2208,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-07 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-07-07 01:46:04 +0000"
     },
     "done": true
   },
@@ -2022,9 +2250,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
     },
     "done": true
   },
@@ -2046,6 +2286,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 01:29:03 +0000"
@@ -2055,6 +2301,12 @@
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-07 01:41:55 +0000"
     },
     "done": true
   },
@@ -2073,6 +2325,12 @@
   "spartanweaponry:recipes/diamond_glaive": {
     "criteria": {
       "has_diamond": "2025-07-07 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-07 01:46:29 +0000"
     },
     "done": true
   },

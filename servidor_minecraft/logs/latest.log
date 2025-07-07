@@ -272,3 +272,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 02:01:47.257] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [07Jul2025 02:02:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> 286 61
 [07Jul2025 02:02:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> 286 61 380
+[07Jul2025 02:08:46.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.42279896825775154
+[07Jul2025 02:11:12.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.3346785519792661
+[07Jul2025 02:11:12.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.32820361566814427
+[07Jul2025 02:11:12.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.3329881782931352
+[07Jul2025 02:11:13.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5121900503828556
+[07Jul2025 02:11:13.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2733071697913374
+[07Jul2025 02:11:13.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5121900503828556
+[07Jul2025 02:11:13.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5121900503828556
+[07Jul2025 02:11:13.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.25997601366816525
+[07Jul2025 02:11:56.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.3600938956307971
+[07Jul2025 02:11:56.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.4040133536521182
+[07Jul2025 02:11:56.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.4040133536521182
+[07Jul2025 02:12:05.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.25812673374548467
+[07Jul2025 02:12:05.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.2592196705965648
+[07Jul2025 02:12:05.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.5697396186096739
+[07Jul2025 02:12:05.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.40288433260690226
+[07Jul2025 02:12:05.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.8706598467678646
+[07Jul2025 02:12:05.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 1.0783523721180472
+[07Jul2025 02:12:05.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5370383351898909
+[07Jul2025 02:12:05.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.6626967920341826
+[07Jul2025 02:12:05.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 1.090029798404089
+[07Jul2025 02:12:05.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 1.107219205288061
+[07Jul2025 02:12:05.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 1.1240776449718624
+[07Jul2025 02:12:05.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.3113701820807364
+[07Jul2025 02:12:05.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5137777688368601
+[07Jul2025 02:12:05.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.28178514149169587
+[07Jul2025 02:12:06.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.31456395106596347
+[07Jul2025 02:12:06.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.2992008593623723
+[07Jul2025 02:12:06.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.2703592974414164
+[07Jul2025 02:12:18.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.34012187516930226
+[07Jul2025 02:13:09.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 9.52859763331685,0.0,-4.004367818837352
+[07Jul2025 02:13:09.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 9.86905438917654,0.0,-4.210220999129987
+[07Jul2025 02:13:09.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.208634492476335,0.0,-4.417845409488631
+[07Jul2025 02:13:09.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.547579142607447,0.0,-4.626834432218256
+[07Jul2025 02:13:09.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.886089128321828,0.0,-4.836843518783741
+[07Jul2025 02:13:09.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 11.224331364741488,0.0,-5.0475810436383455
+[07Jul2025 02:13:09.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 11.562440537286193,0.0,-5.258806467130356
+[07Jul2025 02:13:09.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 11.900528821551234,0.0,-5.47031572555947
+[07Jul2025 02:13:09.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 12.238684230185868,0.0,-5.6819442015589985
+[07Jul2025 02:13:09.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 12.576979343555422,0.0,-5.8935531607620035
+[07Jul2025 02:13:09.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 12.91546893396503,0.0,-6.105033757264543
+[07Jul2025 02:14:20.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.17813491776235,0.0,2.0454274356523
+[07Jul2025 02:14:20.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.565634585792054,0.0,2.143598009988551
+[07Jul2025 02:14:20.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.952970901746653,0.0,2.2424869137355756
+[07Jul2025 02:14:48.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[07Jul2025 02:14:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[07Jul2025 02:15:13.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:35361] logged in with entity id 39973 at (287.55110049639603, 70.0, 352.29315845760317)
+[07Jul2025 02:15:13.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[07Jul2025 02:15:13.978] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[07Jul2025 02:15:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set own game mode to Creative Mode]
+[07Jul2025 02:15:58.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.30192097890042646
+[07Jul2025 02:15:58.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.3050996105544357
+[07Jul2025 02:15:58.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angeelcraft) moved wrongly! 0.3111633688975459
+[07Jul2025 02:16:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santy2105X: Set own game mode to Survival Mode]

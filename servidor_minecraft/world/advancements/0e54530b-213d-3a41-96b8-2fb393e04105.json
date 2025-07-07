@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-06 21:55:06 +0000",
+      "minecraft:deep_ocean": "2025-07-07 02:09:24 +0000",
       "minecraft:cherry_grove": "2025-07-06 21:44:00 +0000",
       "minecraft:sparse_jungle": "2025-07-06 22:24:17 +0000",
       "minecraft:lukewarm_ocean": "2025-07-06 22:51:58 +0000",
@@ -28,7 +29,9 @@
       "minecraft:forest": "2025-07-06 22:19:08 +0000",
       "minecraft:lush_caves": "2025-07-06 22:57:51 +0000",
       "minecraft:jungle": "2025-07-06 22:44:53 +0000",
+      "minecraft:ocean": "2025-07-07 02:08:53 +0000",
       "minecraft:frozen_peaks": "2025-07-06 22:02:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-07 02:15:05 +0000",
       "minecraft:savanna": "2025-07-06 21:48:34 +0000",
       "minecraft:plains": "2025-07-06 21:44:32 +0000"
     },

@@ -371,6 +371,7 @@
       "cooked_beef": "2025-07-06 22:18:22 +0000",
       "bread": "2025-07-06 21:48:08 +0000",
       "rotten_flesh": "2025-07-07 01:39:53 +0000",
+      "cooked_chicken": "2025-07-07 02:30:54 +0000",
       "cod": "2025-07-05 07:09:48 +0000"
     },
     "done": false
@@ -2688,6 +2689,24 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-07 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/dynamite": {
+    "criteria": {
+      "has_explosive_charge": "2025-07-07 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_arrow": {
+    "criteria": {
+      "has_explosive_charge": "2025-07-07 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-07 02:28:42 +0000"
     },
     "done": true
   },

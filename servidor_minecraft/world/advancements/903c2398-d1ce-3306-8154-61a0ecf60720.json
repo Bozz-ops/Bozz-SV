@@ -392,6 +392,7 @@
     "criteria": {
       "cooked_mutton": "2025-07-06 20:17:37 +0000",
       "cooked_beef": "2025-07-07 01:51:15 +0000",
+      "baked_potato": "2025-07-07 05:48:28 +0000",
       "cooked_cod": "2025-07-05 06:43:33 +0000",
       "bread": "2025-07-06 21:33:57 +0000",
       "rotten_flesh": "2025-07-05 07:19:04 +0000",
@@ -2946,6 +2947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-07 05:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-07 04:50:46 +0000"
@@ -3032,6 +3039,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-07 04:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 05:44:34 +0000"
     },
     "done": true
   },
@@ -3404,6 +3417,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-07 03:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-07 05:44:56 +0000"
     },
     "done": true
   },

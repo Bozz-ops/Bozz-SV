@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-07-07 05:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-07 05:13:42 +0000"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-07 05:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-07 04:15:53 +0000"
@@ -406,6 +418,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-07 05:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-07 05:40:18 +0000"
     },
     "done": true
   },
@@ -502,6 +520,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-07 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-07 05:38:48 +0000"
     },
     "done": true
   },
@@ -694,6 +718,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 05:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-07 05:38:48 +0000"
     },
     "done": true
   },
@@ -941,7 +971,9 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-07-07 04:04:29 +0000",
       "minecraft:beach": "2025-07-07 04:08:15 +0000",
+      "minecraft:river": "2025-07-07 05:40:04 +0000",
       "minecraft:forest": "2025-07-07 04:12:06 +0000",
+      "minecraft:ocean": "2025-07-07 05:38:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 04:13:11 +0000",
       "minecraft:plains": "2025-07-07 04:07:05 +0000"
     },
@@ -997,6 +1029,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-07 05:42:05 +0000",
       "potato": "2025-07-07 04:25:53 +0000",
       "golden_carrot": "2025-07-07 04:28:36 +0000"
     },

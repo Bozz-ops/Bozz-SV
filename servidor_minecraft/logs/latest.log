@@ -450,3 +450,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 02:46:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [07Jul2025 02:46:40.745] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [07Jul2025 02:46:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X has made the advancement [Old School Defense]
+[07Jul2025 02:47:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Diamonds!]
+[07Jul2025 02:51:09.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
+[07Jul2025 02:53:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog
+[07Jul2025 02:54:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santy2105X was slain by Man From The Fog

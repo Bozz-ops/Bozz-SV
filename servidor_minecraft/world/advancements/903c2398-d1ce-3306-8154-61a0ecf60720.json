@@ -2947,6 +2947,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-07-07 02:25:53 +0000",
+      "drowned_head": "2025-07-07 02:48:57 +0000",
       "skeleton_skull": "2025-07-07 02:20:16 +0000"
     },
     "done": false

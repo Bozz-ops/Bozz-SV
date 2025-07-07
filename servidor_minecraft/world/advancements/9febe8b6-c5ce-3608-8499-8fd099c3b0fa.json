@@ -565,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 05:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 05:15:28 +0000"

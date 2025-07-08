@@ -3,3 +3,12 @@
 [08Jul2025 00:01:25.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:51837] logged in with entity id 3365 at (282.12134124468906, 74.0, 353.28815334476275)
 [08Jul2025 00:01:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
 [08Jul2025 00:01:25.274] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[08Jul2025 00:03:37.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:33639] logged in with entity id 4606 at (556.2898157142707, 89.0, 695.7617340392084)
+[08Jul2025 00:03:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 00:03:37.551] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 00:04:07.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 00:04:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 00:08:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Take Aim]
+[08Jul2025 00:11:01.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:52389] logged in with entity id 9252 at (556.2898157142707, 89.0, 695.7617340392084)
+[08Jul2025 00:11:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 00:11:01.941] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)

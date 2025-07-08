@@ -4325,3 +4325,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 07:02:02.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171701, l='ServerLevel[world]', x=284.98, y=-256.00, z=328.38] died, message: 'Unemployed was killed'
 [08Jul2025 07:03:04.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/172124, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
 [08Jul2025 07:07:12.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/173352, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[08Jul2025 07:07:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> w
+[08Jul2025 07:07:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> w
+[08Jul2025 07:08:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
+[08Jul2025 07:15:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie

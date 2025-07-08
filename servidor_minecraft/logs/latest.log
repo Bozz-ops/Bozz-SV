@@ -4137,3 +4137,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:23:19.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:38423] logged in with entity id 85299 at (1192.300000011921, 97.125, 112.55461896610372)
 [08Jul2025 04:23:19.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [08Jul2025 04:23:19.664] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:23:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 04:23:57.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:33993] logged in with entity id 86019 at (1212.7634283141765, 97.12160004615784, 101.75930105874644)
+[08Jul2025 04:23:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[08Jul2025 04:23:57.488] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[08Jul2025 04:25:13.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> spawn destruido
+[08Jul2025 04:25:18.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Suit Up]
+[08Jul2025 04:25:33.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Skeleton
+[08Jul2025 04:26:00.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Skeleton
+[08Jul2025 04:27:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Isn't It Iron Pick]
+[08Jul2025 04:29:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by Creeper
+[08Jul2025 04:29:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was blown up by Creeper
+[08Jul2025 04:30:00.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[08Jul2025 04:30:07.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 04:31:46.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was blown up by Creeper
+[08Jul2025 04:32:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> TPAME BB
+[08Jul2025 04:32:06.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[08Jul2025 04:33:25.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:33:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:33:34.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93813, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 04:33:52.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Disconnected
+[08Jul2025 04:33:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[08Jul2025 04:34:19.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:60035] logged in with entity id 94499 at (1205.1580576207018, 101.5, 106.85588893299553)
+[08Jul2025 04:34:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:34:19.537] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:35:08.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95177, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 04:35:10.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95208, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[08Jul2025 04:36:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Man From The Fog
+[08Jul2025 04:36:35.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:36:35.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:37:37.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/97062, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[08Jul2025 04:37:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Sweet Dreams]
+[08Jul2025 04:38:22.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:38:23.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz moved wrongly!
+[08Jul2025 04:38:42.501] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/98018, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[08Jul2025 04:38:46.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:39:19.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> damageontas
+[08Jul2025 04:39:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:39:27.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> estoy con kuriron
+[08Jul2025 04:39:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> no
+[08Jul2025 04:39:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> Kcronoz
+[08Jul2025 04:39:33.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> peleando
+[08Jul2025 04:39:37.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> en la base?
+[08Jul2025 04:39:40.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> no con el bicho
+[08Jul2025 04:39:42.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ese de la usica
+[08Jul2025 04:39:44.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> m
+[08Jul2025 04:40:01.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:60841] logged in with entity id 98869 at (1201.8524601689949, 90.125, 115.5481754427645)
+[08Jul2025 04:40:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:40:01.986] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:40:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:40:22.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:40:39.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:40:39.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:41:25.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:51431] logged in with entity id 100046 at (-126.5, 104.0, 86.5)
+[08Jul2025 04:41:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:41:25.983] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:42:00.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-149, y=105, z=88}
+[08Jul2025 04:42:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Reaping What You Sow]
+[08Jul2025 04:42:31.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:42:40.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:42:51.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3649510602753594
+[08Jul2025 04:42:52.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.3601311486575014
+[08Jul2025 04:42:52.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.39948974958088
+[08Jul2025 04:42:52.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3017046126014368
+[08Jul2025 04:42:52.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.3620113118261088
+[08Jul2025 04:42:53.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.26276147993428367
+[08Jul2025 04:42:54.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5342135240159109
+[08Jul2025 04:43:30.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was slain by Ferrous Wroughtnaut
+[08Jul2025 04:43:40.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2643555455171054
+[08Jul2025 04:43:40.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3904037226420769
+[08Jul2025 04:43:40.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5119132638681094
+[08Jul2025 04:43:40.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6283755370893687
+[08Jul2025 04:44:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was slain by Ferrous Wroughtnaut

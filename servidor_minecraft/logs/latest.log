@@ -4329,3 +4329,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 07:07:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> w
 [08Jul2025 07:08:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
 [08Jul2025 07:15:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
+[08Jul2025 07:17:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to 1061.500000, 97.000000, 112.500000]
+[08Jul2025 07:17:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[08Jul2025 07:18:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was doomed to fall by Zombie
+[08Jul2025 07:18:28.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-129, y=107, z=96}
+[08Jul2025 07:18:28.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-128, y=108, z=96}
+[08Jul2025 07:18:31.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-129, y=108, z=96}
+[08Jul2025 07:18:31.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-129, y=107, z=96}
+[08Jul2025 07:20:11.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/179722, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 07:20:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to 1064.500000, 116.000000, 90.500000]
+[08Jul2025 07:20:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
+[08Jul2025 07:22:00.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/180861, l='ServerLevel[world]', x=258.20, y=-256.00, z=359.46] died, message: 'Unemployed was killed'

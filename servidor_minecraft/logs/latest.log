@@ -4303,3 +4303,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 05:45:52.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 moved too quickly! 9.533539079135323,-1.766367993957516,2.618633950492608
 [08Jul2025 05:49:54.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
 [08Jul2025 05:49:54.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
+[08Jul2025 05:58:50.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 05:58:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 05:59:27.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fbb9f4c[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:57379) lost connection: Disconnected
+[08Jul2025 05:59:35.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:36573] logged in with entity id 151658 at (1206.7556695823848, 90.0, 111.30000001192093)
+[08Jul2025 05:59:35.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 05:59:35.020] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 06:03:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Enchanter]

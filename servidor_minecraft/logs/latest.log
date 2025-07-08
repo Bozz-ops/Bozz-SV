@@ -4225,3 +4225,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:53:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was impaled by Drowned
 [08Jul2025 04:54:24.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
 [08Jul2025 04:54:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[08Jul2025 04:54:35.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/111703, l='ServerLevel[world]', x=1202.05, y=-256.00, z=118.66] died, message: 'Unemployed was killed'
+[08Jul2025 04:55:12.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/112015, l='ServerLevel[world]', x=284.65, y=-256.00, z=359.43] died, message: 'Unemployed was killed'
+[08Jul2025 04:55:53.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> santy aceme tp
+[08Jul2025 04:55:58.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> a quien
+[08Jul2025 04:56:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Reaping What You Sow]
+[08Jul2025 04:56:35.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> help!!
+[08Jul2025 04:56:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Sneak 100]
+[08Jul2025 04:56:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> a donde t hago top
+[08Jul2025 04:56:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> a vos
+[08Jul2025 04:57:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[08Jul2025 04:57:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> voy jg
+[08Jul2025 04:57:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> oigan se puede ir neter?
+[08Jul2025 04:57:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> si
+[08Jul2025 04:57:51.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> en?
+[08Jul2025 04:57:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> end?
+[08Jul2025 04:57:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
+[08Jul2025 04:58:03.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ta loco dejenlo xd
+[08Jul2025 04:58:14.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> al end todavia no
+[08Jul2025 04:58:29.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> glamuroso
+[08Jul2025 04:59:24.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was slain by Cave Dweller
+[08Jul2025 05:00:17.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115053, l='ServerLevel[world]', x=230.60, y=-256.00, z=349.59] died, message: 'Unemployed was killed'
+[08Jul2025 05:00:30.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115551, l='ServerLevel[world]', x=258.07, y=-256.00, z=359.54] died, message: 'Unemployed was killed'
+[08Jul2025 05:00:36.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Halberdier]
+[08Jul2025 05:00:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Hot Stuff]
+[08Jul2025 05:01:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Ice Bucket Challenge]
+[08Jul2025 05:03:41.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [We Need to Go Deeper]

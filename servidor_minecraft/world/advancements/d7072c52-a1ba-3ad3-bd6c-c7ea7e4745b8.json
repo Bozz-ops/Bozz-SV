@@ -18,6 +18,7 @@
       "minecraft:sparse_jungle": "2025-07-06 21:16:39 +0000",
       "minecraft:river": "2025-07-05 07:21:06 +0000",
       "minecraft:stony_shore": "2025-07-05 06:48:49 +0000",
+      "minecraft:grove": "2025-07-08 06:45:54 +0000",
       "minecraft:forest": "2025-07-05 06:38:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:44:44 +0000",
       "minecraft:ocean": "2025-07-05 06:50:36 +0000",
@@ -3414,6 +3415,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-07-08 06:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-08 06:25:10 +0000"
@@ -3423,6 +3430,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-08 06:22:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-07-08 06:52:17 +0000"
     },
     "done": true
   },
@@ -3510,6 +3523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-08 06:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-07-08 06:23:27 +0000"
@@ -3531,6 +3550,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-08 06:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-08 06:52:17 +0000"
     },
     "done": true
   },
@@ -3579,6 +3604,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-07-08 06:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-08 06:52:17 +0000"
     },
     "done": true
   },

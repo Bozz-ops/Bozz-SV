@@ -3813,6 +3813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-08 06:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-08 03:23:00 +0000"
@@ -3834,6 +3840,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-08 04:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-08 06:45:57 +0000"
     },
     "done": true
   },

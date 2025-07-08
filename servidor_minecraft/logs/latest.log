@@ -4340,3 +4340,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 07:20:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to 1064.500000, 116.000000, 90.500000]
 [08Jul2025 07:20:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
 [08Jul2025 07:22:00.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/180861, l='ServerLevel[world]', x=258.20, y=-256.00, z=359.46] died, message: 'Unemployed was killed'
+[08Jul2025 07:27:53.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/183372, l='ServerLevel[world]', x=997.01, y=-256.00, z=262.88] died, message: 'Unemployed was killed'
+[08Jul2025 07:34:17.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Disconnected
+[08Jul2025 07:34:17.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[08Jul2025 07:41:10.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[08Jul2025 07:41:24.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/189068, l='ServerLevel[world]', x=1202.05, y=-256.00, z=118.66] died, message: 'Unemployed was killed'
+[08Jul2025 07:42:07.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/189341, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[08Jul2025 07:54:34.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194503, l='ServerLevel[world]', x=1202.05, y=-256.00, z=118.66] died, message: 'Unemployed was killed'
+[08Jul2025 07:57:09.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=67, z=73} BlockPos{x=9, y=68, z=75}

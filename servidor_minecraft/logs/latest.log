@@ -3888,3 +3888,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 22:44:59.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53569] logged in with entity id 999 at (-172.94546024909516, 63.0, 738.3102578050818)
 [08Jul2025 22:44:59.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [08Jul2025 22:44:59.667] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 22:45:23.501] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,luckys_armory:luckys_armory,curios:main,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel,securitycraft:securitycraft] rejected their client side version number
+[08Jul2025 22:45:23.501] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Jul2025 22:45:23.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3beb847a[id=<null>,name=TheDoyan,properties={},legacy=false] (/127.192.242.214:51213) lost connection: Connection closed - mismatched mod channel list
+[08Jul2025 22:45:44.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 22:45:44.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 22:46:01.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:53651] logged in with entity id 1261 at (33.92846999392753, 58.875, 87.03776466123024)
+[08Jul2025 22:46:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[08Jul2025 22:46:01.926] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[08Jul2025 22:46:24.225] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b41818d[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:56949) lost connection: Disconnected
+[08Jul2025 22:46:33.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:55923] logged in with entity id 1383 at (-172.94546024909516, 63.0, 738.3102578050818)
+[08Jul2025 22:46:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 22:46:33.524] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 22:46:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que lee
+[08Jul2025 22:46:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pvto el que lee
+[08Jul2025 22:47:18.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 22:47:18.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 22:47:30.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:32839] logged in with entity id 2484 at (-138.73592856315392, 68.0, 709.5102430541663)
+[08Jul2025 22:47:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 22:47:30.713] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 22:48:15.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 22:48:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 22:48:47.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:39497] logged in with entity id 2993 at (-138.73592856315392, 68.0, 709.5102430541663)
+[08Jul2025 22:48:48.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 22:48:48.007] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 22:49:10.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[08Jul2025 22:49:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[08Jul2025 22:49:31.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:48847] logged in with entity id 3408 at (282.1516408178304, 63.0, 364.68210813254524)
+[08Jul2025 22:49:31.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[08Jul2025 22:49:31.760] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[08Jul2025 22:49:48.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 22:49:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 22:49:55.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:58425] logged in with entity id 4164 at (-164.22775990392765, 64.0, 742.5700316535139)
+[08Jul2025 22:49:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 22:49:55.805] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 22:50:25.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 22:50:25.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 22:52:04.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:37103] logged in with entity id 4815 at (354.2759799278811, 64.0, 631.7662907436388)
+[08Jul2025 22:52:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[08Jul2025 22:52:04.774] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[08Jul2025 22:54:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was blown up by Creeper
+[08Jul2025 22:54:29.599] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,curios:main] rejected their client side version number
+[08Jul2025 22:54:29.599] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Jul2025 22:54:29.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bdd32d5[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:58857) lost connection: Connection closed - mismatched mod channel list
+[08Jul2025 22:54:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [A Rogue's Best Friend]
+[08Jul2025 22:55:02.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[08Jul2025 22:55:02.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[08Jul2025 22:55:03.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
+[08Jul2025 22:55:03.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game

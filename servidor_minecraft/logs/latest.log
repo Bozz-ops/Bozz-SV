@@ -4041,3 +4041,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:02:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> p
 [08Jul2025 04:02:50.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> pe
 [08Jul2025 04:03:02.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported CaptainSKIPNOTZ to BozzNofps]
+[08Jul2025 04:03:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[08Jul2025 04:03:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 04:03:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Cover Me with Diamonds]
+[08Jul2025 04:03:43.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Husk
+[08Jul2025 04:04:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Husk
+[08Jul2025 04:04:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Getting an Upgrade]
+[08Jul2025 04:05:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[08Jul2025 04:05:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[08Jul2025 04:05:11.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [A Seedy Place]
+[08Jul2025 04:05:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was killed by Area Effect Cloud using magic
+[08Jul2025 04:05:34.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[08Jul2025 04:05:42.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 04:06:00.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:06:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:06:06.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[08Jul2025 04:06:06.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Cave Dweller
+[08Jul2025 04:06:08.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:51353] logged in with entity id 71698 at (1202.5815388359192, 97.0625, 122.64813843195105)
+[08Jul2025 04:06:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:06:08.961] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:06:33.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> Riuksaky puedes tepear a Kcronoz a mi
+[08Jul2025 04:06:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Husk
+[08Jul2025 04:07:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[08Jul2025 04:07:20.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Husk
+[08Jul2025 04:07:32.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=100, z=80} BlockPos{x=-149, y=109, z=76}
+[08Jul2025 04:07:34.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=109, z=75} BlockPos{x=-148, y=109, z=76}
+[08Jul2025 04:07:34.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=109, z=75} BlockPos{x=-148, y=109, z=76}
+[08Jul2025 04:07:37.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to agustinnfes2]
+[08Jul2025 04:07:43.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Isn't It Iron Pick]
+[08Jul2025 04:07:56.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:07:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:08:02.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:42969] logged in with entity id 73225 at (1213.72912482521, 96.0, 108.69999998807907)
+[08Jul2025 04:08:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:08:02.089] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:08:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Man From The Fog
+[08Jul2025 04:08:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> CHALE
+[08Jul2025 04:09:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Husk
+[08Jul2025 04:09:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Husk
+[08Jul2025 04:09:50.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[08Jul2025 04:10:17.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:10:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:11:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[08Jul2025 04:11:11.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43119] logged in with entity id 75909 at (1215.8289408570854, 89.0, 108.68126528351)
+[08Jul2025 04:11:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:11:11.214] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:11:46.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Hot Stuff]
+[08Jul2025 04:11:57.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76357, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[08Jul2025 04:12:41.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 04:12:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game

@@ -2863,6 +2863,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-07-08 04:11:01 +0000",
       "minecraft:wolf": "2025-07-06 23:22:56 +0000"
     },
     "done": false
@@ -3635,9 +3636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-08 04:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-08 03:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-08 04:05:20 +0000"
     },
     "done": true
   },
@@ -3728,6 +3741,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-08 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-08 04:05:11 +0000"
     },
     "done": true
   },

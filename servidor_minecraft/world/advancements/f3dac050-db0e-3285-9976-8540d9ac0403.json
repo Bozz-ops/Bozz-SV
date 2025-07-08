@@ -2642,6 +2642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-08 04:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 02:56:53 +0000"
@@ -2650,7 +2656,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "zombie_head": "2025-07-08 04:02:52 +0000"
+      "zombie_head": "2025-07-08 04:02:52 +0000",
+      "husk_head": "2025-07-08 04:20:22 +0000"
     },
     "done": false
   },
@@ -2897,6 +2904,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 02:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-08 04:20:23 +0000"
     },
     "done": true
   },

@@ -4089,3 +4089,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:11:57.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76357, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
 [08Jul2025 04:12:41.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
 [08Jul2025 04:12:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:13:48.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:54621] logged in with entity id 77991 at (1197.300000011921, 93.0, 110.61746268760254)
+[08Jul2025 04:13:48.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:13:48.696] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:15:03.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[08Jul2025 04:15:03.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:15:44.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Maxx
+[08Jul2025 04:16:14.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:51061] logged in with entity id 79898 at (1188.699999988079, 97.0, 112.32482935424923)
+[08Jul2025 04:16:14.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:16:14.349] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 04:16:40.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Disconnected
+[08Jul2025 04:16:40.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game
+[08Jul2025 04:16:47.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.103.64.47:43753] logged in with entity id 80145 at (993.6999999880791, 104.0, 145.45012555061433)
+[08Jul2025 04:16:47.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
+[08Jul2025 04:16:47.542] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
+[08Jul2025 04:16:50.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
+[08Jul2025 04:16:50.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
+[08Jul2025 04:16:54.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:41343] logged in with entity id 80295 at (1004.4023409008616, 23.0, 268.64601728155674)
+[08Jul2025 04:16:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[08Jul2025 04:16:54.128] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[08Jul2025 04:17:05.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [En Garde!]
+[08Jul2025 04:17:27.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[08Jul2025 04:17:45.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Timed out
+[08Jul2025 04:17:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[08Jul2025 04:18:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> qque onda kuriron que hacen
+[08Jul2025 04:18:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Hammer Time!]
+[08Jul2025 04:18:23.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f1efaa9[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:48543) lost connection: Disconnected
+[08Jul2025 04:18:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [En Garde!]
+[08Jul2025 04:18:37.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Reaping What You Sow]
+[08Jul2025 04:19:00.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81354, l='ServerLevel[world]', x=258.20, y=-256.00, z=359.50] died, message: 'Unemployed was killed'
+[08Jul2025 04:19:16.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@743cf97a[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:56047) lost connection: Disconnected
+[08Jul2025 04:19:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Zombie
+[08Jul2025 04:19:52.127] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ec8db18[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:57009) lost connection: Disconnected
+[08Jul2025 04:19:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> subi
+[08Jul2025 04:20:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Zombie
+[08Jul2025 04:20:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 drowned
+[08Jul2025 04:20:32.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[08Jul2025 04:20:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xd
+[08Jul2025 04:20:39.647] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f821a57[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:56271) lost connection: Disconnected
+[08Jul2025 04:20:41.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
+[08Jul2025 04:20:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> de la forma mas xd
+[08Jul2025 04:21:19.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d2751f5[id=<null>,name=CaptainSKIPNOTZ,properties={},legacy=false] (/127.35.44.146:46075) lost connection: Disconnected
+[08Jul2025 04:21:36.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-248, y=64, z=497} BlockPos{x=-245, y=63, z=498}
+[08Jul2025 04:22:05.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:22:05.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:22:41.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jul2025 04:23:19.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:38423] logged in with entity id 85299 at (1192.300000011921, 97.125, 112.55461896610372)
+[08Jul2025 04:23:19.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 04:23:19.664] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)

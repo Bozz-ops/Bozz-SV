@@ -187,6 +187,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "drowned_head": "2025-07-08 03:52:46 +0000",
       "zombie_head": "2025-07-08 03:33:33 +0000",
       "skeleton_skull": "2025-07-08 03:42:19 +0000"
     },
@@ -406,7 +407,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-08 03:21:02 +0000",
       "minecraft:spider": "2025-07-08 03:26:31 +0000",
-      "minecraft:zombie": "2025-07-08 03:20:30 +0000"
+      "minecraft:zombie": "2025-07-08 03:20:30 +0000",
+      "minecraft:drowned": "2025-07-08 03:52:45 +0000"
     },
     "done": false
   },
@@ -848,6 +850,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-08 03:58:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_greatsword": {
     "criteria": {
       "has_wood": "2025-07-08 02:51:03 +0000"
@@ -1087,6 +1095,7 @@
       "minecraft:cherry_grove": "2025-07-08 02:45:31 +0000",
       "minecraft:birch_forest": "2025-07-08 03:17:01 +0000",
       "minecraft:beach": "2025-07-08 02:46:43 +0000",
+      "minecraft:dark_forest": "2025-07-08 03:56:05 +0000",
       "minecraft:river": "2025-07-08 02:48:26 +0000",
       "minecraft:dripstone_caves": "2025-07-08 03:48:11 +0000",
       "minecraft:forest": "2025-07-08 02:48:05 +0000",

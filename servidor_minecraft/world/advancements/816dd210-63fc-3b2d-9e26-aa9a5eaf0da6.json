@@ -20,12 +20,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-06 20:00:37 +0000",
+      "minecraft:deep_ocean": "2025-07-08 02:57:11 +0000",
       "minecraft:cherry_grove": "2025-07-06 20:34:54 +0000",
+      "minecraft:birch_forest": "2025-07-08 03:17:52 +0000",
       "minecraft:savanna_plateau": "2025-07-06 21:27:54 +0000",
       "minecraft:beach": "2025-07-07 02:17:33 +0000",
       "minecraft:stony_peaks": "2025-07-06 21:28:23 +0000",
       "minecraft:dark_forest": "2025-07-07 02:16:39 +0000",
       "minecraft:river": "2025-07-06 22:46:16 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-08 03:05:06 +0000",
       "minecraft:stony_shore": "2025-07-07 02:07:24 +0000",
       "minecraft:forest": "2025-07-06 20:01:26 +0000",
       "minecraft:ocean": "2025-07-07 02:08:55 +0000",
@@ -3286,6 +3289,60 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-07 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-08 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-08 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-08 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-08 03:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-08 03:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-08 03:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-08 03:07:54 +0000"
     },
     "done": true
   },

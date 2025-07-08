@@ -3757,3 +3757,86 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 02:51:00.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:49259] logged in with entity id 15804 at (304.1328078287554, 64.0, 473.61577838391077)
 [08Jul2025 02:51:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [08Jul2025 02:51:00.409] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 02:52:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Sweet Dreams]
+[08Jul2025 02:52:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> onii chan
+[08Jul2025 02:52:14.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> uwu
+[08Jul2025 02:53:03.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by kuriron
+[08Jul2025 02:53:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Ice Bucket Challenge]
+[08Jul2025 02:53:17.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17047, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[08Jul2025 02:53:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 02:53:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Suit Up]
+[08Jul2025 02:55:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Reaping What You Sow]
+[08Jul2025 02:57:48.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.3515591653010688
+[08Jul2025 02:59:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set own game mode to Survival Mode]
+[08Jul2025 03:02:04.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id lootr:lootr_chest
+[08Jul2025 03:05:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Best Friends Forever]
+[08Jul2025 03:12:17.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[08Jul2025 03:12:45.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.30518585609016213
+[08Jul2025 03:12:45.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.28163850106068367
+[08Jul2025 03:12:45.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.4090928910320031
+[08Jul2025 03:12:45.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.5071400582273498
+[08Jul2025 03:12:45.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.33864859368051725
+[08Jul2025 03:12:45.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.412854721261823
+[08Jul2025 03:12:45.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.29920185978159
+[08Jul2025 03:12:45.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2679279827296739
+[08Jul2025 03:12:46.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.29395604515386253
+[08Jul2025 03:12:46.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2884558788956326
+[08Jul2025 03:12:46.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2758575561761063
+[08Jul2025 03:12:47.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2815246986017428
+[08Jul2025 03:12:47.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.39653179882816403
+[08Jul2025 03:12:47.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.49669284207436704
+[08Jul2025 03:12:47.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5879295308092196
+[08Jul2025 03:12:50.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.34100233223563237
+[08Jul2025 03:12:50.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.3878805513616044
+[08Jul2025 03:12:50.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.7660172512804024
+[08Jul2025 03:12:50.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.1457741016781995
+[08Jul2025 03:12:50.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.491978302938577
+[08Jul2025 03:12:59.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3751698837361914
+[08Jul2025 03:12:59.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3753227790947165
+[08Jul2025 03:12:59.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3754603849137368
+[08Jul2025 03:12:59.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.375584230147581
+[08Jul2025 03:12:59.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.375695690855082
+[08Jul2025 03:12:59.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3916422541250029
+[08Jul2025 03:12:59.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3917325372933078
+[08Jul2025 03:12:59.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.3918137921426137
+[08Jul2025 03:12:59.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.391886921505062
+[08Jul2025 03:12:59.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 1.391952737929529
+[08Jul2025 03:13:05.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5796801229201378
+[08Jul2025 03:13:05.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.9350879740991331
+[08Jul2025 03:13:05.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.8938912886765138
+[08Jul2025 03:13:05.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 1.194527895143267
+[08Jul2025 03:13:08.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.2958391468636705
+[08Jul2025 03:13:08.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.41693304609458437
+[08Jul2025 03:14:13.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.36466272954083934
+[08Jul2025 03:14:13.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.5733146912799612
+[08Jul2025 03:14:13.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.7720773722567174
+[08Jul2025 03:14:13.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.9906208007006398
+[08Jul2025 03:14:13.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3875170884272734
+[08Jul2025 03:15:37.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.2713484067506329
+[08Jul2025 03:15:37.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.4574719872913988
+[08Jul2025 03:15:37.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6614624661129938
+[08Jul2025 03:15:38.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.2919525241522365
+[08Jul2025 03:15:38.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.4815265623707319
+[08Jul2025 03:15:38.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.34826962280317275
+[08Jul2025 03:15:46.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3511175363244661
+[08Jul2025 03:15:46.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.7240265587847716
+[08Jul2025 03:15:46.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3990335888003642
+[08Jul2025 03:15:47.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.5125167621325772
+[08Jul2025 03:16:06.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.4679725362126419
+[08Jul2025 03:16:23.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.43284891648846724
+[08Jul2025 03:16:23.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8025181409943798
+[08Jul2025 03:16:23.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.0372612065117437
+[08Jul2025 03:16:23.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.2702424621777482
+[08Jul2025 03:17:43.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3315600035635953
+[08Jul2025 03:17:43.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.2533590433543509
+[08Jul2025 03:17:43.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3502211780385096
+[08Jul2025 03:17:43.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.8537857123359345
+[08Jul2025 03:17:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.6506810770429183
+[08Jul2025 03:17:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.43273257064515747
+[08Jul2025 03:17:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.8746930040841789
+[08Jul2025 03:17:43.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.8803171424046923
+[08Jul2025 03:17:43.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.70377886157587
+[08Jul2025 03:18:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Stone Age]
+[08Jul2025 03:18:46.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Isn't It Iron Pick]
+[08Jul2025 03:20:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Monster Hunter]
+[08Jul2025 03:21:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [A Terrible Fortress]

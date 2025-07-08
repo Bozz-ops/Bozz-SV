@@ -4316,3 +4316,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 06:14:18.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
 [08Jul2025 06:29:57.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/160112, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
 [08Jul2025 06:30:50.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/160240, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[08Jul2025 06:44:20.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165478, l='ServerLevel[world]', x=1196.70, y=-256.00, z=116.87] died, message: 'Unemployed was killed'
+[08Jul2025 06:44:34.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165551, l='ServerLevel[world]', x=1202.05, y=-256.00, z=118.66] died, message: 'Unemployed was killed'
+[08Jul2025 06:46:02.501] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/166134, l='ServerLevel[world]', x=284.97, y=-256.00, z=328.58] died, message: 'Unemployed was killed'

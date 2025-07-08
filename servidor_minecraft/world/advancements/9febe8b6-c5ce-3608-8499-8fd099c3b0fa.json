@@ -589,6 +589,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "enderman_head": "2025-07-08 03:45:03 +0000",
+      "drowned_head": "2025-07-08 05:20:39 +0000",
       "zombie_head": "2025-07-08 03:33:52 +0000",
       "witch_head": "2025-07-07 05:08:51 +0000"
     },

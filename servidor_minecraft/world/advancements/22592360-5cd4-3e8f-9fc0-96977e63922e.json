@@ -2431,9 +2431,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-08 04:33:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
     },
     "done": true
   },
@@ -2601,6 +2619,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
     },
     "done": true
   },
@@ -2814,6 +2838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 02:56:47 +0000"
@@ -2862,6 +2892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 05:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-08 04:05:56 +0000"
@@ -2907,6 +2943,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-08 04:51:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
     },
     "done": true
   },
@@ -2988,6 +3030,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-07-08 05:01:17 +0000"
@@ -3003,6 +3051,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-08 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 05:19:12 +0000"
     },
     "done": true
   },
@@ -3048,6 +3102,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-07-08 03:23:01 +0000"
@@ -3072,9 +3132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-08 04:18:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
     },
     "done": true
   },
@@ -3216,6 +3288,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-08 05:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-08 05:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-08 04:18:21 +0000"
@@ -3237,6 +3321,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-07-08 04:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-08 05:19:12 +0000"
     },
     "done": true
   },
@@ -3264,6 +3354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-08 05:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-07-08 04:08:04 +0000"
@@ -3273,6 +3369,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-08 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 05:19:12 +0000"
     },
     "done": true
   },

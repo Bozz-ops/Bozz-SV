@@ -4265,3 +4265,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 05:14:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [08Jul2025 05:14:13.825] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [08Jul2025 05:14:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz hit the ground too hard
+[08Jul2025 05:16:09.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [We Need to Go Deeper]
+[08Jul2025 05:16:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 05:17:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> y las berrugas?
+[08Jul2025 05:17:41.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> se basearon la fortres
+[08Jul2025 05:17:57.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky lost connection: Disconnected
+[08Jul2025 05:17:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky left the game
+[08Jul2025 05:18:45.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131604, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[08Jul2025 05:18:50.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> weno vuelvo al nether
+[08Jul2025 05:19:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> saben que mejor les robo comida
+[08Jul2025 05:20:34.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Timed out
+[08Jul2025 05:20:34.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[08Jul2025 05:20:42.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.35.44.146:33839] logged in with entity id 132569 at (276.4856284533249, 39.0, 328.4038606721963)
+[08Jul2025 05:20:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[08Jul2025 05:20:42.364] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[08Jul2025 05:22:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> chau chicos
+[08Jul2025 05:22:14.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Disconnected
+[08Jul2025 05:22:14.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game

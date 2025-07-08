@@ -4287,3 +4287,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 05:32:02.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/136691, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
 [08Jul2025 05:32:14.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/136741, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
 [08Jul2025 05:35:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by BozzNofps
+[08Jul2025 05:38:29.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/139379, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 05:40:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> gente, yo me voy a dormir, y a reflexionar sobre la sacada de mrd q me hicieron en la mazmorra
+[08Jul2025 05:40:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
+[08Jul2025 05:40:50.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
+[08Jul2025 05:40:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[08Jul2025 05:41:25.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was slain by Cave Dweller
+[08Jul2025 05:41:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> q cagaso
+[08Jul2025 05:41:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
+[08Jul2025 05:43:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Man From The Fog
+[08Jul2025 05:44:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Diamonds!]
+[08Jul2025 05:44:42.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
+[08Jul2025 05:44:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
+[08Jul2025 05:45:09.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 moved too quickly! -9.787164381488566,1.0,2.0258630113384584
+[08Jul2025 05:45:52.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 moved too quickly! 9.533539079135323,-1.766367993957516,2.618633950492608
+[08Jul2025 05:49:54.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
+[08Jul2025 05:49:54.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game

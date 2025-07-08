@@ -2940,6 +2940,7 @@
       "creeper_head": "2025-07-07 02:25:53 +0000",
       "enderman_head": "2025-07-07 05:04:38 +0000",
       "drowned_head": "2025-07-07 02:48:57 +0000",
+      "zombified_piglin_head": "2025-07-08 05:45:57 +0000",
       "zombie_head": "2025-07-07 03:35:29 +0000",
       "wither_skeleton_skull": "2025-07-08 03:28:18 +0000",
       "skeleton_skull": "2025-07-07 02:20:16 +0000"
@@ -3589,6 +3590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-08 05:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-08 05:24:56 +0000"
@@ -3661,9 +3668,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-08 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-08 05:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-08 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-08 05:38:04 +0000"
     },
     "done": true
   },

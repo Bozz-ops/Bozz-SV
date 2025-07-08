@@ -4310,3 +4310,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 05:59:35.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [08Jul2025 05:59:35.020] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [08Jul2025 06:03:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Enchanter]
+[08Jul2025 06:09:17.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/155842, l='ServerLevel[world]', x=1196.70, y=-256.00, z=116.87] died, message: 'Unemployed was killed'
+[08Jul2025 06:10:05.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/156060, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 06:11:45.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/156499, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[08Jul2025 06:14:18.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]

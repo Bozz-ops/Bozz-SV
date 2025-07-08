@@ -823,6 +823,7 @@
       "minecraft:spider": "2025-07-05 07:03:39 +0000",
       "minecraft:creeper": "2025-07-05 07:06:28 +0000",
       "minecraft:phantom": "2025-07-07 01:21:18 +0000",
+      "minecraft:zombified_piglin": "2025-07-08 03:33:01 +0000",
       "minecraft:wither_skeleton": "2025-07-08 03:28:15 +0000",
       "minecraft:cave_spider": "2025-07-06 20:56:26 +0000",
       "minecraft:piglin": "2025-07-08 03:19:23 +0000",
@@ -3580,6 +3581,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-08 03:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 03:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-07-08 02:45:27 +0000"
@@ -3601,6 +3614,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-08 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-08 03:33:03 +0000"
     },
     "done": true
   },
@@ -3685,6 +3704,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-08 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-08 03:39:14 +0000"
     },
     "done": true
   },

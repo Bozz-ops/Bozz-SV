@@ -3856,5 +3856,24 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-08 05:28:54 +0000",
+      "minecraft:soul_sand_valley": "2025-07-08 05:29:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-08 05:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-08 05:28:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

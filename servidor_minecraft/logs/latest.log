@@ -4251,3 +4251,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 05:00:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Hot Stuff]
 [08Jul2025 05:01:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Ice Bucket Challenge]
 [08Jul2025 05:03:41.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [We Need to Go Deeper]
+[08Jul2025 05:07:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was blown up by Creeper
+[08Jul2025 05:07:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [A Terrible Fortress]
+[08Jul2025 05:07:45.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Hoglin
+[08Jul2025 05:11:42.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:51191] logged in with entity id 125733 at (-51.6523453050658, 113.0, 87.69999998807907)
+[08Jul2025 05:11:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 05:11:42.532] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 05:12:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> a mimir
+[08Jul2025 05:12:33.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> no :(
+[08Jul2025 05:14:08.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 05:14:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 05:14:13.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:58637] logged in with entity id 127849 at (-74.10588685260637, 63.0, 352.0973685983843)
+[08Jul2025 05:14:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 05:14:13.825] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 05:14:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz hit the ground too hard

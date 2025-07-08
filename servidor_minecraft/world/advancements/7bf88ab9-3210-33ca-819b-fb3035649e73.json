@@ -24,6 +24,7 @@
       "minecraft:beach": "2025-07-08 04:25:08 +0000",
       "minecraft:dark_forest": "2025-07-08 03:48:15 +0000",
       "minecraft:river": "2025-07-08 03:41:30 +0000",
+      "minecraft:stony_shore": "2025-07-08 05:03:00 +0000",
       "minecraft:forest": "2025-07-08 03:37:25 +0000",
       "minecraft:lush_caves": "2025-07-08 03:48:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-08 03:52:47 +0000",
@@ -1730,6 +1731,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-07-08 05:11:24 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-07-08 04:56:04 +0000"
@@ -1832,6 +1839,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 05:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-08 04:20:04 +0000"
@@ -1847,6 +1860,12 @@
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-07-08 04:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-07-08 05:11:24 +0000"
     },
     "done": true
   },
@@ -2024,9 +2043,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 05:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-08 04:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 05:11:49 +0000"
     },
     "done": true
   },

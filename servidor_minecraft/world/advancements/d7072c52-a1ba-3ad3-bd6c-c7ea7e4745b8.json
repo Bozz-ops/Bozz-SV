@@ -3269,17 +3269,17 @@
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "zombie_head": "2025-07-08 04:43:01 +0000"
-    },
-    "done": false
-  },
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-07-08 04:42:24 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "zombie_head": "2025-07-08 04:43:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

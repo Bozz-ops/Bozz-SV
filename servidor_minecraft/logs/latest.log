@@ -3840,3 +3840,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 03:18:46.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Isn't It Iron Pick]
 [08Jul2025 03:20:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Monster Hunter]
 [08Jul2025 03:21:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [A Terrible Fortress]
+[08Jul2025 03:23:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by Creeper
+[08Jul2025 03:23:10.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Not Today, Thank You]
+[08Jul2025 03:23:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Into Fire]
+[08Jul2025 03:23:34.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[08Jul2025 03:25:03.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[08Jul2025 03:25:37.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to Riuksaky]
+[08Jul2025 03:25:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Cave Dweller
+[08Jul2025 03:26:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to agustinnfes2]
+[08Jul2025 03:26:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Ol' Betsy]
+[08Jul2025 03:28:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Spooky Scary Skeleton]
+[08Jul2025 03:30:39.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 03:30:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 03:31:23.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:56429] logged in with entity id 48057 at (-133.5, 104.0, 92.5)
+[08Jul2025 03:31:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[08Jul2025 03:31:23.325] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[08Jul2025 03:31:32.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:41377] logged in with entity id 48209 at (929.7013861731231, 11.0, 406.7853049047299)
+[08Jul2025 03:31:32.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[08Jul2025 03:31:32.472] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[08Jul2025 03:31:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> oal
+[08Jul2025 03:31:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> hola bb
+[08Jul2025 03:31:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> apreta z
+[08Jul2025 03:32:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> tengo hambre

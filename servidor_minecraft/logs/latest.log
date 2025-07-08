@@ -4209,3 +4209,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:43:40.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5119132638681094
 [08Jul2025 04:43:40.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6283755370893687
 [08Jul2025 04:44:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 was slain by Ferrous Wroughtnaut
+[08Jul2025 04:45:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [A Bigger Blade]
+[08Jul2025 04:45:55.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was slain by Ferrous Wroughtnaut
+[08Jul2025 04:47:08.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[08Jul2025 04:47:08.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[08Jul2025 04:47:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has completed the challenge [Just a Flesh Wound]
+[08Jul2025 04:47:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> wp
+[08Jul2025 04:47:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> ez
+[08Jul2025 04:49:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Acquire Hardware]
+[08Jul2025 04:50:52.929] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player balda just tried to change non-editable sign
+[08Jul2025 04:51:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Not Today, Thank You]
+[08Jul2025 04:51:41.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> e
+[08Jul2025 04:52:36.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110050, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[08Jul2025 04:53:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Not Today, Thank You]
+[08Jul2025 04:53:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was impaled by Drowned
+[08Jul2025 04:54:24.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[08Jul2025 04:54:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game

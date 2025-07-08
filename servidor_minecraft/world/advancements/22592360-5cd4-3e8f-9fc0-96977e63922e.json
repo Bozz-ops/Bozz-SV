@@ -1067,6 +1067,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
@@ -1097,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-08 00:17:07 +0000"
@@ -1106,6 +1124,12 @@
   "spartanweaponry:recipes/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },
@@ -1196,6 +1220,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -1331,6 +1361,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
@@ -1346,6 +1382,12 @@
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },
@@ -1409,6 +1451,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-08 00:08:23 +0000"
@@ -1442,6 +1490,12 @@
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -1493,6 +1547,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-08 00:22:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-08 00:15:28 +0000"
@@ -1514,6 +1580,24 @@
   "spartanweaponry:recipes/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-08 00:22:35 +0000"
     },
     "done": true
   },
@@ -1559,6 +1643,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-07-08 00:17:05 +0000"
@@ -1574,6 +1664,12 @@
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -1595,9 +1691,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },
@@ -1616,6 +1724,12 @@
   "tconstruct:recipes/redstone/smeltery/scorched/duct": {
     "criteria": {
       "has_item": "2025-07-08 00:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -1679,6 +1793,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-08 00:17:07 +0000"
@@ -1700,6 +1820,18 @@
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },
@@ -1769,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-07-08 00:17:05 +0000"
@@ -1784,6 +1922,12 @@
   "mcwstairs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-08 00:20:49 +0000"
     },
     "done": true
   },
@@ -1817,6 +1961,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-08 00:17:05 +0000"
@@ -1847,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-08 00:17:07 +0000"
@@ -1859,9 +2015,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -2051,9 +2219,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 00:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-08 00:22:35 +0000"
     },
     "done": true
   },
@@ -2075,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-08 00:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-08 00:17:07 +0000"
@@ -2084,6 +2276,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 00:18:37 +0000"
     },
     "done": true
   },
@@ -2114,6 +2312,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-08 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },
@@ -2240,6 +2444,12 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-07-08 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 00:18:04 +0000"
     },
     "done": true
   },

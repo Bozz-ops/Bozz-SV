@@ -727,3 +727,99 @@
 [09Jul2025 00:22:02.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
 [09Jul2025 00:22:02.308] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
 [09Jul2025 00:22:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Crimson Mosquito
+[09Jul2025 00:22:28.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45cbb5be[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:42959) lost connection: Disconnected
+[09Jul2025 00:23:02.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c25cf6f[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:36171) lost connection: Disconnected
+[09Jul2025 00:23:09.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43811] logged in with entity id 67190 at (-123.26737443265341, 104.0, 91.3641847485564)
+[09Jul2025 00:23:09.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 00:23:09.766] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 00:23:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [We Need to Go Deeper]
+[09Jul2025 00:23:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to 1163.500000, 61.000000, -159.500000]
+[09Jul2025 00:23:52.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 moved too quickly! 3.8203445566240433,3.0,8.91352883431037
+[09Jul2025 00:23:52.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[09Jul2025 00:24:04.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[09Jul2025 00:24:35.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to 1163.500000, 61.000000, -159.500000]
+[09Jul2025 00:24:38.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 00:24:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 00:24:41.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Crimson Mosquito
+[09Jul2025 00:24:53.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:57653] logged in with entity id 69080 at (91.75762624637753, 74.0, 228.34612526509346)
+[09Jul2025 00:24:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 00:24:53.932] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 00:26:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Crimson Mosquito
+[09Jul2025 00:26:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[09Jul2025 00:26:21.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 00:26:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 00:26:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ay un mosquito aqui
+[09Jul2025 00:27:45.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> q mierda es ese ruido
+[09Jul2025 00:28:28.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:59651] logged in with entity id 72279 at (-137.5, 105.0, 88.5)
+[09Jul2025 00:28:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 00:28:28.063] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 00:29:00.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[09Jul2025 00:29:46.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> aaa me tengo que ir
+[09Jul2025 00:29:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> cuando vuelva
+[09Jul2025 00:29:59.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> aviso
+[09Jul2025 00:30:07.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[09Jul2025 00:30:10.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> literal me voy a la vuelta
+[09Jul2025 00:30:36.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3741216027210612
+[09Jul2025 00:30:36.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7544925686968327
+[09Jul2025 00:30:36.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.1316601221683413
+[09Jul2025 00:30:36.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.5087804172242159
+[09Jul2025 00:30:36.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.885858179707384
+[09Jul2025 00:30:36.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 2.262896373925514
+[09Jul2025 00:30:36.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 2.6373858699205357
+[09Jul2025 00:30:36.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 3.0076089702990885
+[09Jul2025 00:30:36.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 3.368341111616928
+[09Jul2025 00:30:36.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 3.717552763997446
+[09Jul2025 00:30:36.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 4.00421966785575
+[09Jul2025 00:30:36.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 4.233346439086972
+[09Jul2025 00:30:51.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
+[09Jul2025 00:30:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
+[09Jul2025 00:30:51.504] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jul2025 00:32:03.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.39498991463756283
+[09Jul2025 00:32:03.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7586591780043364
+[09Jul2025 00:32:03.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7783588726872495
+[09Jul2025 00:32:03.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7326811272907889
+[09Jul2025 00:32:03.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6996121471381684
+[09Jul2025 00:33:33.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.46874826497582944
+[09Jul2025 00:33:35.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.699417968706257,0.0,-6.681396826084395
+[09Jul2025 00:33:35.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.699417968706257,0.0,-6.681396826084395
+[09Jul2025 00:33:35.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.779961806063739,0.0,-6.654395525690688
+[09Jul2025 00:33:35.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.754838895325747,0.0,-6.565323405403959
+[09Jul2025 00:33:35.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.708087262638173,0.0,-6.453264746754229
+[09Jul2025 00:33:35.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.643346750281808,0.0,-6.319452268186296
+[09Jul2025 00:33:36.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.563784165799234,0.0,-6.165161404030897
+[09Jul2025 00:33:36.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.472145746870183,0.0,-5.991677165640624
+[09Jul2025 00:33:36.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.370798393156292,0.0,-5.800273547682281
+[09Jul2025 00:33:36.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.261772804341717,0.0,-5.59219552279184
+[09Jul2025 00:33:36.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.146808020828075,0.0,-5.368643697306311
+[09Jul2025 00:33:36.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.027379362186139,0.0,-5.130769177623918
+[09Jul2025 00:33:36.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.904735165796865,0.0,-4.879665597167119
+[09Jul2025 00:33:36.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.779923817588724,0.0,-4.6163664892289376
+[09Jul2025 00:33:36.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.653822348882613,0.0,-4.3418426394127465
+[09Jul2025 00:33:36.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.526502180633543,0.0,-4.057237692998726
+[09Jul2025 00:33:36.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.397378790484709,0.0,-3.7638276231606227
+[09Jul2025 00:33:36.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.265358729852323,0.0,-3.463015202073592
+[09Jul2025 00:33:36.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.12896846360377,0.0,-3.1563505207981706
+[09Jul2025 00:33:36.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.987094714220802,0.0,-2.845219288421461
+[09Jul2025 00:33:36.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.838923232577827,0.0,-2.5308448161321024
+[09Jul2025 00:33:36.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.683301473473648,0.0,-2.214678872206335
+[09Jul2025 00:33:36.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.518863050384653,0.0,-1.8984171993333518
+[09Jul2025 00:33:36.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.34415420817868,0.0,-1.5840101050946203
+[09Jul2025 00:33:36.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.157751420410705,0.0,-1.2736683314347204
+[09Jul2025 00:33:36.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 9.958365611973477,0.0,-0.9698665266938775
+[09Jul2025 00:34:14.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79820, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[09Jul2025 00:35:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was impaled by Drowned
+[09Jul2025 00:35:25.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to CaptainSKIPNOTZ]
+[09Jul2025 00:36:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to 2112.500000, 63.000000, 390.500000]
+[09Jul2025 00:36:19.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to kuriron]
+[09Jul2025 00:36:19.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81772, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 00:38:08.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82601, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[09Jul2025 00:38:50.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved wrongly!
+[09Jul2025 00:40:48.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to 2112.500000, 63.000000, 390.500000]
+[09Jul2025 00:41:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[09Jul2025 00:41:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has reached the goal [Netherite Tier]
+[09Jul2025 00:41:56.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Netherite Tier]
+[09Jul2025 00:42:05.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 00:42:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 00:42:11.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:36095] logged in with entity id 84817 at (93.82984744546998, 74.0, 226.69999998807907)
+[09Jul2025 00:42:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 00:42:11.919] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)

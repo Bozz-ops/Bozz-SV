@@ -2586,12 +2586,6 @@
     },
     "done": true
   },
-  "spartanweaponry:dagger": {
-    "criteria": {
-      "has_dagger": "2025-07-08 22:54:58 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-07-08 22:52:04 +0000"
@@ -2895,6 +2889,18 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-07-08 22:52:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-07-08 22:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-08 23:48:07 +0000"
     },
     "done": true
   },

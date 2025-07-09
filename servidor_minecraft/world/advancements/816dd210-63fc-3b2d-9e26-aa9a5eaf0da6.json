@@ -676,6 +676,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-07 04:34:46 +0000",
       "minecraft:skeleton": "2025-07-06 20:08:56 +0000",
+      "minecraft:hoglin": "2025-07-09 00:50:06 +0000",
       "minecraft:spider": "2025-07-06 21:20:44 +0000",
       "minecraft:creeper": "2025-07-06 21:54:17 +0000",
       "minecraft:phantom": "2025-07-08 03:54:14 +0000",
@@ -3876,12 +3877,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sentry": {
-    "criteria": {
-      "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-07-09 00:22:02 +0000"
@@ -3918,12 +3913,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/floor_trap": {
-    "criteria": {
-      "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-09 00:22:02 +0000"
@@ -3936,21 +3925,171 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/storage_module": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+  "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
-      "has_wheat": "2025-07-09 00:26:02 +0000"
+      "has_iron": "2025-07-09 00:24:34 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+  "securitycraft:recipes/misc/storage_module": {
     "criteria": {
-      "has_item": "2025-07-09 00:24:36 +0000"
+      "has_iron": "2025-07-09 00:24:34 +0000"
     },
     "done": true
   },
@@ -3960,27 +4099,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_acacia_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
     },
     "done": true
   },
@@ -3999,12 +4120,6 @@
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
     },
     "done": true
   },
@@ -4056,39 +4171,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
-    "criteria": {
-      "has_item": "2025-07-09 00:29:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
     },
     "done": true
   },
@@ -4098,51 +4183,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
     },
     "done": true
   },
@@ -4155,12 +4204,6 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:36 +0000"
     },
     "done": true
   },
@@ -4182,12 +4225,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
@@ -4197,78 +4234,6 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-07-09 00:24:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/laser_block": {
-    "criteria": {
-      "has_stone": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/gold_bars": {
-    "criteria": {
-      "has_ingot": "2025-07-09 00:24:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/gold_platform": {
-    "criteria": {
-      "has_gold": "2025-07-09 00:24:37 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:internal/starting_book": {
-    "criteria": {
-      "tick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/duct": {
-    "criteria": {
-      "has_item": "2025-07-09 00:24:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
     },
     "done": true
   },
@@ -4284,33 +4249,81 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
     "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
+      "has_item": "2025-07-09 00:24:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
+      "has_item": "2025-07-09 00:24:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
     "criteria": {
-      "has_cobblestone": "2025-07-09 00:22:02 +0000"
+      "has_item": "2025-07-09 00:24:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
     "criteria": {
-      "has_cobblestone": "2025-07-09 00:22:02 +0000"
+      "has_item": "2025-07-09 00:24:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
-      "has_stick": "2025-07-09 00:22:02 +0000"
+      "has_item": "2025-07-09 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-07-09 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-07-09 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-09 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-09 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-09 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-07-09 00:29:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-09 00:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-09 00:46:15 +0000"
     },
     "done": true
   },

@@ -4077,5 +4077,31 @@
     },
     "done": true
   },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "swasher": "2025-07-09 00:46:16 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-07-09 00:46:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cobalt": "2025-07-09 00:46:16 +0000",
+      "cinderslime": "2025-07-09 00:46:16 +0000",
+      "iron": "2025-07-09 00:46:16 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2025-07-09 00:46:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

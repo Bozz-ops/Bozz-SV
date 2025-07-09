@@ -204,3 +204,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 01:04:28.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
 [09Jul2025 01:04:28.090] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
 [09Jul2025 01:05:40.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <angeelcraft> sacame el muteo
+[09Jul2025 01:07:19.389] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[09Jul2025 01:07:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to CaptainSKIPNOTZ]
+[09Jul2025 01:07:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Cachalot Whale
+[09Jul2025 01:10:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has completed the challenge [Free Willy]
+[09Jul2025 01:10:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Orca
+[09Jul2025 01:11:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Hidden in the Depths]
+[09Jul2025 01:13:09.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 01:13:09.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 01:13:20.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:48303] logged in with entity id 13312 at (373.54034530942033, 66.0, 623.3000000119209)
+[09Jul2025 01:13:20.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 01:13:20.459] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 01:17:41.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[09Jul2025 01:17:45.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [A Terrible Fortress]
+[09Jul2025 01:18:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Crimson Mosquito
+[09Jul2025 01:18:35.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18923, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[09Jul2025 01:22:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was impaled by Drowned
+[09Jul2025 01:24:19.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to 1381.500000, 64.000000, 1038.500000]
+[09Jul2025 01:26:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to angeelcraft]
